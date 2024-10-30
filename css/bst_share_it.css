@@ -1,0 +1,635 @@
+.info_noflat {
+position:relative; 
+top:26px;
+left:5px;
+z-index:1000;
+}
+
+.info_flat {
+text-align:right;
+position:relative; 
+z-index:1000;
+width:100%;
+display: table;
+
+}
+
+.info_flat_widget {
+text-align:right;
+position:relative; 
+z-index:1000;
+width:100%;
+margin-left:5px;
+
+}
+
+.info_flat_text {
+
+  position:relative; 
+
+  float:right;
+  
+
+      display: table-cell;
+    vertical-align: middle;
+ 
+   
+   
+
+	
+}
+
+
+
+
+.info_img
+
+{
+float:right;
+
+} 
+ 
+
+
+
+.info_flat_clear {
+ clear:both;
+}
+
+
+#fb-container {
+			
+			height: 25x !important;
+			width: 120px !important;
+			
+			overflow: hidden !important;
+    
+      border: solid 0px red !important;
+			
+		}
+
+
+.info_box {
+    
+    
+margin-left:0px;
+margin-top:0px;
+margin-right:0px;
+margin-bottom:0px;
+background: none !important;
+border: 0px solid #ffffff !important;
+z-index:-9999 !important;
+}
+
+.bst_share_it-img
+{
+width:16px;
+height:16px;
+}
+
+
+.social_counter_header_red {
+    
+    font-family: Arial,sans-serif;
+    font-size:12px;
+    font-style:normal;   
+    
+    background-color: #ff0000;
+    color: #ffffff;
+    position: absolute;
+    min-width: 16px;
+    min-height: 16px;
+    
+    padding-top:4px;
+    padding-left:3px;
+    padding-right:3px;
+    padding-bottom:1px;
+   
+    border: 2px solid #ffffff;
+    text-align: center;
+    vertical-align:middle;
+    border-radius: 15px;
+  
+-moz-border-radius:15px;
+-webkit-border-radius:15px;
+margin-left:-4px;
+margin-top:-2px;
+margin-right:0px;
+margin-bottom:0px;
+line-height:20px;
+padding-top:0px;
+
+}
+
+
+.social_counter_header_green {
+    
+        font-family: Arial,sans-serif;
+    font-size:12px;
+    font-style:normal;   
+    
+    background-color: #2AAD12;
+    color: #ffffff;
+    position: absolute;
+    min-width: 16px;
+    min-height: 16px;
+    
+    padding-top:4px;
+    padding-left:3px;
+    padding-right:3px;
+    padding-bottom:1px;
+   
+    border: 2px solid #ffffff;
+    text-align: center;
+    vertical-align:middle;
+    border-radius: 15px;
+  
+-moz-border-radius:15px;
+-webkit-border-radius:15px;
+margin-left:-4px;
+margin-top:-2px;
+margin-right:0px;
+margin-bottom:0px;
+line-height:20px;
+padding-top:0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.social_counter {
+    
+    font-family: Arial,sans-serif;
+    font-size:10px;
+    font-style:normal;   
+    
+    background-color: #ff0000;
+    color: #ffffff;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+   
+    border: 2px solid #ffffff;
+    text-align: center;
+    vertical-align:middle;
+    border-radius: 11px;
+  
+-moz-border-radius:11px;
+-webkit-border-radius:11px;
+margin-left:105px;
+margin-top:6px;
+margin-right:0px;
+margin-bottom:0px;
+line-height:17px;
+padding-top:0px;
+
+}
+
+.social_counter_idle
+
+{
+    
+    font-family: Arial,sans-serif;
+    font-size:10px;
+    font-style:normal;   
+    
+    
+    color: #ffffff;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+   
+    border: 2px solid #ffffff;
+    text-align: center;
+    vertical-align:middle;
+    border-radius: 11px;
+  
+-moz-border-radius:11px;
+-webkit-border-radius:11px;
+margin-left:105px;
+margin-top:6px;
+margin-right:0px;
+margin-bottom:0px;
+line-height:17px;
+padding-top:0px;
+
+}
+
+dt {
+	float:left;
+	width:100%;
+	cursor:pointer;
+	text-align:left;
+	z-index:1000;
+	outline: none;
+	
+}
+
+
+dt a:active, a:focus {outline: none;}
+
+dt:hover {
+
+}
+
+/* Der Button-Container für die Anzeige im Widget */
+dd.bst_share_it-button {
+	text-align:center !important;
+  margin-left:0px !important;
+	float:left !important;
+	width:100% !important;
+}
+
+/* Der Button-Container für die Anzeige auf Seiten */ 
+dd.bst_share_it-button_page {
+	text-align:left !important;
+  margin-left:0px !important;
+	float:left !important;
+	width:100% !important;
+}
+
+
+/* Responsiver Container für button in Seiten und Artikeln */ 
+
+.flex-divcontainer_header
+{
+  height:35px;
+  border: 0px solid silver;
+  padding:10px;
+  background:#eee;
+  -moz-border-radius-topleft:  6px;  /* Firefox bis Version 3.6 */
+   -webkit-border-top-left-radius: 6px;  /* Safari, Chrome (vor WebKit Version 533) */
+           border-top-left-radius: 6px;  /* Firefox 4; Browser mit CSS3 Unterstützung */
+
+-moz-border-radius-topright:  6px;  /* Firefox bis Version 3.6 */
+   -webkit-border-top-right-radius: 6px;  /* Safari, Chrome (vor WebKit Version 533) */
+           border-top-right-radius: 6px;  /* Firefox 4; Browser mit CSS3 Unterstützung */
+
+position:relative;
+z-index:10;
+}
+
+
+
+
+
+
+
+.flex-divcontainer_shadow
+{
+
+height:1px;
+ border: 10px solid #eee;
+ 
+width:100%;
+            -moz-border-radius-bottomleft:  6px;  /* Firefox bis Version 3.6 */
+   -webkit-border-bottom-left-radius: 6px;  /* Safari, Chrome (vor WebKit Version 533) */
+           border-bottom-left-radius: 6px;  /* Firefox 4; Browser mit CSS3 Unterstützung */
+
+-moz-border-radius-bottomright:  6px;  /* Firefox bis Version 3.6 */
+   -webkit-border-bottom-right-radius: 6px;  /* Safari, Chrome (vor WebKit Version 533) */
+           border-bottom-right-radius: 6px;  /* Firefox 4; Browser mit CSS3 Unterstützung */
+
+}
+
+
+
+
+.flex-divcontainer
+{
+ border-top: 0px solid #eee;
+ border-left: 1px solid #eee;
+ border-right: 1px solid #eee;
+ border-bottom: 1px solid #eee;
+ padding-bottom: 5px;
+ padding-top: 40px;
+ margin-bottom: 25px;
+
+
+            -moz-border-radius-bottomleft:  6px;  /* Firefox bis Version 3.6 */
+   -webkit-border-bottom-left-radius: 6px;  /* Safari, Chrome (vor WebKit Version 533) */
+           border-bottom-left-radius: 6px;  /* Firefox 4; Browser mit CSS3 Unterstützung */
+
+-moz-border-radius-bottomright:  6px;  /* Firefox bis Version 3.6 */
+   -webkit-border-bottom-right-radius: 6px;  /* Safari, Chrome (vor WebKit Version 533) */
+           border-bottom-right-radius: 6px;  /* Firefox 4; Browser mit CSS3 Unterstützung */
+
+
+position:relative;
+z-index:1;
+}
+
+
+
+#flex-divcontainer-links { 
+float: left; 
+width: 96px;
+margin-right:20px;
+height:48px;
+background: none;
+
+
+}
+#flex-divcontainer-rechts { 
+float: right; 
+width: 20px;
+margin-left:20Px;
+background: none;
+
+}
+
+#flex-divcontainer-mitte {
+
+font-size:11px;
+line-height:15px;
+text-align:left;
+margin-right:40px;
+background: none;
+}
+
+ 
+.header_box1
+{
+float: left;
+width: 48px; /* optionale Weitenangabe */
+
+margin-left:-15Px;
+z-index:-10;
+background: none;
+
+}
+ 
+.header_box2
+{
+float: right;
+
+}
+
+@media  (max-width: 800px) {
+.header_box2 {
+display: none;
+}
+}
+  
+
+.flex-container {
+  padding: 0 !important;
+  margin-left: 0 !important;
+  margin-bottom: 0px !important;
+  list-style: none;
+  border: 0px solid #000;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex; 
+}
+
+.nowrap  { 
+  -webkit-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.wrap    { 
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}  
+
+.wrap li {
+ 
+}
+
+.wrap-reverse         { 
+  -webkit-flex-wrap: wrap-reverse;
+  flex-wrap: wrap-reverse;
+}  
+.wrap-reverse li {
+ 
+}
+
+.flex-item {
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bst_share_it-button_page {
+	margin: 0px auto;
+	display:block;
+	height:96px;
+	width:96px;
+	text-indent:-9999px;
+	z-index:1000;
+	outline: none;
+}
+
+
+#bst_share_it-button {
+	margin: 0px auto;
+	display:block;
+	height:96px;
+	width:96px;
+	text-indent:-9999px;
+	z-index:1000;
+	outline: none;
+}
+
+.bst_share_it-button_closed { 
+  background:url(../img/share-button-r-96.png) no-repeat;
+  min-height:96px;
+  z-index:1000;
+  outline: none;
+  
+}
+
+.bst_share_it-button_open { 
+  background:url(../img/share-button-g-96.png) no-repeat; 
+  min-height:96px;
+  z-index:1000;
+  outline: none;
+}
+
+.bst_share_it-button_page_open { 
+  background:url(../img/share-button-g-96.png) no-repeat; 
+  min-height:96px;
+  z-index:1000;
+}
+
+.bst_share_it-button_page_closed { 
+  background:url(../img/share-button-r-96.png) no-repeat; 
+  min-height:96px;
+  z-index:1000;
+}
+
+
+div.bst_share_it_spacer {
+height:5px;
+}
+
+div.bst_share_it_spacer-title-top {
+height:10px;
+}
+
+div.bst_share_it_spacer-top {
+height:30px;
+}
+
+div.bst_share_it_spacer-buttons-top {
+height:15px;
+}
+
+div.bst_share_it_spacer-buttons-bottom {
+height:20px;
+}
+
+div.bst_share_it_spacer-footer {
+height:110px;
+}
+
+
+
+div.clear {
+    clear:both;
+}
+
+
+table.bst_share_it {  
+width:100%;
+background:#1D325F;
+border: 0px solid #fff;
+margin: 0px;
+}
+
+
+
+td.bst_share_it-text-td
+{
+padding-left: 10px;
+padding-top: 3px;
+padding-right: 0px;
+padding-bottom: 3px;
+font-size:11px;
+line-height:20px;
+border: 0px solid #000;
+vertical-align:middle;
+color:#ccc;
+
+}
+
+
+td.bst_share_it-img-td
+{
+width:16px;
+padding-left: 7px;
+padding-top: 7px;
+padding-right: 7px;
+padding-bottom: 3px;
+border: 0px solid #000;
+vertical-align:top;
+
+}
+
+
+div.table_wrapper_bg 
+{
+border-radius:6px !important;
+-moz-border-radius:6px !important;
+-webkit-border-radius:6px !important;
+overflow: hidden;
+-webkit-box-shadow: 0 8px 6px -6px black  !important;
+-moz-box-shadow: 0 8px 6px -6px black  !important;
+box-shadow: 0 8px 6px -6px black  !important;
+}
+
+div.table_wrapper 
+{
+border-radius:6px !important;
+-moz-border-radius:6px !important;
+-webkit-border-radius:6px !important;
+overflow: hidden;
+}
+
+
+
+img.attachment-bst_share_it_image_thumbnail
+{
+width:266px;
+height:125px;
+}
+
+
+dt.og-buttonfb {
+
+	float:left;
+	width:100%;
+	cursor:pointer;
+	text-align:right;
+
+
+}
+
+
+
+
+
+dd.og-button {
+	text-align:left !important;
+  margin-left:0px !important;
+	float:left !important;
+	width:100% !important;
+}
+
+#og-button {
+	margin: 0px auto;
+	display:block;
+	height:64px;
+	width:64px;
+	text-indent:-9999px;
+}
+
+.og-button_closed { 
+  background:url(../img/og-fb-open.png) no-repeat;
+  min-height:64px;
+}
+
+.og-button_open { 
+  background:url(../img/og-fb-close.png) no-repeat; 
+  min-height:64px;
+}
+
+

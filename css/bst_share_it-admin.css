@@ -1,0 +1,15 @@
+.flexbox-container {
+	width:600px;
+	display: -ms-flex;
+	display: -webkit-flex;
+	display: flex;
+}
+
+.flexbox-container > div {
+	width: 50%;
+	padding: 0px;
+}
+
+.flexbox-container > div:first-child {
+	margin-right: 20px;
+}

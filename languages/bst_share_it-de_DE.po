@@ -1,0 +1,2766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bst-social v0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-26 12:26+0200\n"
+"PO-Revision-Date: 2015-08-26 12:30+0200\n"
+"Last-Translator: Arnold Margolf <amargolf@bst-systemtechnik.de>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/bst_share_it_admin.php:111
+msgid "Good morning"
+msgstr "Guten Morgen"
+
+#: includes/bst_share_it_admin.php:114
+msgid "Welcome"
+msgstr "Guten Tag"
+
+#: includes/bst_share_it_admin.php:117
+msgid "Good evening"
+msgstr "Guten Abend"
+
+#: includes/bst_share_it_admin.php:134
+msgid "welcome to the BST share iT Buttons"
+msgstr "Herzlich willkommen zu den BST share iT Buttons"
+
+#: includes/bst_share_it_admin.php:144
+msgid "General settings"
+msgstr "Allgemeine Einstellungen"
+
+#: includes/bst_share_it_admin.php:145
+msgid "Colors and styles"
+msgstr "Farben und Button Styles"
+
+#: includes/bst_share_it_admin.php:168
+msgid ""
+"Currently you have the following social buttons to share your content. By "
+"activating / deactivating the respective checkbox You can show or hide the "
+"buttons globally."
+msgstr ""
+"Aktuell stehen Dir folgende Social Buttons zum Teilen Deiner Inhalte zur "
+"Verfügung.  Durch aktivieren/deaktivieren der jeweiligen Checkbox kannst Du "
+"die Buttons global ein- oder ausblenden."
+
+#: includes/bst_share_it_admin.php:176
+msgid "Show button:"
+msgstr "Button zeigen:"
+
+#: includes/bst_share_it_admin.php:238
+msgid "Show counter:"
+msgstr "Zeige Zähler"
+
+#: includes/bst_share_it_admin.php:249
+msgid "Show buttons on:"
+msgstr "Zeige Buttons in:"
+
+#: includes/bst_share_it_admin.php:253
+msgid "Posts:"
+msgstr "Artikeln:"
+
+#: includes/bst_share_it_admin.php:257
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: includes/bst_share_it_admin.php:262
+msgid "Button space to content:"
+msgstr "Abstand zum Inhalt:"
+
+#: includes/bst_share_it_admin.php:266
+msgid "Pixel before:"
+msgstr "Pixel davor:"
+
+#: includes/bst_share_it_admin.php:271
+msgid "Pixel after:"
+msgstr "Pixel danach:i"
+
+#: includes/bst_share_it_admin.php:279
+msgid "Fallback to global picture if no post or sharing picture is set:"
+msgstr ""
+"Fallback auf globales Bild wenn kein Beitrags- bzw. Sharing-Bild gesetzt ist:"
+
+#: includes/bst_share_it_admin.php:286
+msgid "Picture"
+msgstr "Bild wählen"
+
+#: includes/bst_share_it_admin.php:293
+msgid "Include twitter card section:"
+msgstr "Twitter Card hinzufügen:"
+
+#: includes/bst_share_it_admin.php:299
+msgid "Twitter site:"
+msgstr "Twitter Seite:"
+
+#: includes/bst_share_it_admin.php:304
+msgid "Twitter creator:"
+msgstr "Twitter Account:"
+
+#: includes/bst_share_it_admin.php:313
+msgid "Include opengraph section:"
+msgstr "Opengraph Bereich einfügen:"
+
+#: includes/bst_share_it_admin.php:320
+msgid "Facebook admin:"
+msgstr "Facebook Admin:"
+
+#: includes/bst_share_it_admin.php:325
+msgid "Facebook app id:"
+msgstr "Facebook App ID:"
+
+#: includes/bst_share_it_admin.php:331
+msgid "Facebook author:"
+msgstr "Facebook Autor:"
+
+#: includes/bst_share_it_admin.php:336
+msgid "Facebook publisher:"
+msgstr "Facebook Publisher:"
+
+#: includes/bst_share_it_admin.php:361
+msgid "Info field:"
+msgstr "Info Bereich:"
+
+#: includes/bst_share_it_admin.php:364
+msgid "Background color:"
+msgstr "Hintergrundfarbe:"
+
+#: includes/bst_share_it_admin.php:371
+msgid "Infofield font color:"
+msgstr "Informationsfeld Schriftfarbe:"
+
+#: includes/bst_share_it_admin.php:382
+msgid "Button Container:"
+msgstr "Button Bereich:"
+
+#: includes/bst_share_it_admin.php:387
+msgid "Buttons background color:"
+msgstr "Buttons Hintergrundfarbe:"
+
+#: includes/bst_share_it_admin.php:393
+msgid "Shadow:"
+msgstr "Schatten anzeigen:"
+
+#: includes/bst_share_it_admin.php:400
+msgid "Buttons at choice:"
+msgstr "Buttons Auswahl"
+
+#: includes/bst_share_it_admin.php:404
+msgid "Button style:"
+msgstr "Button Styles"
+
+#: includes/bst_share_it_admin.php:408
+msgid "The flat one"
+msgstr "Flat Buttons im Container"
+
+#: includes/bst_share_it_admin.php:409
+msgid "The simple flat one"
+msgstr "Einfach, simple und flat"
+
+#: includes/bst_share_it_admin.php:512
+msgid "More information on this plugin you get"
+msgstr "Weitere Informationen zu diesem Plugin erhältst Du"
+
+#: includes/bst_share_it_admin.php:512
+msgid "here"
+msgstr "hier."
+
+#: includes/bst_share_it_admin.php:575
+msgid "Invalid input [ Pixel before ] - Allowed are values between 0 and 100"
+msgstr "Eingabefehler [ Pixel davor ] - Erlaubt sind Werte zwischen 0 und 100"
+
+#: includes/bst_share_it_admin.php:588
+msgid "Invalid input [ Pixel after ] - Allowed are values between 0 and 100"
+msgstr "Eingabefehler [ Pixel danach ] - Erlaubt sind Werte zwischen 0 und 100"
+
+#: includes/bst_share_it_admin.php:609
+msgid ""
+"Invalid input [ Twitter site ] - Allowed are letters a-z and @ with a max "
+"length of 50"
+msgstr ""
+"Eingabefehler [ Twitter Seite] - Erlaubt sind die Zeichen \"a-z\" und \"@\" "
+"mit einer maximalen Länge von 50"
+
+#: includes/bst_share_it_admin.php:621
+msgid ""
+"Invalid input [ Twitter creator ] - Allowed are letters a-z and @ with a max "
+"length of 50"
+msgstr ""
+"Eingabefehler [ Twitter Account] - Erlaubt sind die Zeichen \"a-z\" und \"@"
+"\" mit einer maximalen Länge von 50"
+
+#: includes/bst_share_it_admin.php:636
+msgid ""
+"Invalid input [ Facebook admin ] - Allowed are numbers between 0 and 9 with "
+"max length 20"
+msgstr ""
+"Eingabefehler [ Facebook Admin ] - Erlaubt sind Zahlen zwischen 0 und 9 mit "
+"einer maximalen Zeichenkettenlänge von 20"
+
+#: includes/bst_share_it_admin.php:649
+msgid ""
+"Invalid input [ Facebook app id ] - Allowed are numbers between 0 and 9 with "
+"max length 20"
+msgstr ""
+"Eingabefehler [ Facebook App ID ] - Erlaubt sind Zahlen zwischen 0 und 9 mit "
+"einer maximalen Zeichenkettenlänge von 20"
+
+#: includes/bst_share_it_admin.php:663
+msgid ""
+"Invalid input [ Facebook author ] - Allowed are \"a-z\", \"A-Z\", \"0-9\" "
+"and \". : /\""
+msgstr ""
+"Eingabefehler [ Facebook Autor] - Erlaubt sind die Zeichen \"a-z\", \"A-Z\", "
+"\"0-9\"und \". : /\""
+
+#: includes/bst_share_it_admin.php:677
+msgid ""
+"Invalid input [ Facebook publisher ] - Allowed are \"a-z\", \"A-Z\", \"0-9\" "
+"and \". : /\""
+msgstr ""
+"Eingabefehler [ Facebook Publisher] - Erlaubt sind die Zeichen \"a-z\", \"A-Z"
+"\", \"0-9\"und \". : /\""
+
+#: includes/bst_share_it_admin.php:701
+msgid ""
+"Invalid input [ Info backcolor ] - Allowed are \"a-f\", \"A-F\" and \"0-9\""
+msgstr ""
+"Eingabefehler [ Info Hintergrundfarbe ] - Erlaubt sind die Zeichen  \"a-f\", "
+"\"A-F\" und \"0-9\""
+
+#: includes/bst_share_it_admin.php:715
+msgid ""
+"Invalid input [ Info fontcolor ] - Allowed are \"a-f\", \"A-F\" and \"0-9\""
+msgstr ""
+"Eingabefehler [ Info Schriftfarbe ] - Erlaubt sind die Zeichen  \"a-f\", \"A-"
+"F\" und \"0-9\""
+
+#: includes/bst_share_it_admin.php:729
+msgid ""
+"Invalid input [ Buttons backcolor ] - Allowed are \"a-f\", \"A-F\" and "
+"\"0-9\""
+msgstr ""
+"Eingabefehler [ Buttons Hintergrundfarbe ] - Erlaubt sind die Zeichen  \"a-f"
+"\", \"A-F\" und \"0-9\""
+
+#: includes/bst_share_it_admin_metabox_buttons.php:28
+msgid "Show or hide BST Social Buttons"
+msgstr "Anzeige der BST Social Buttons"
+
+#: includes/bst_share_it_admin_metabox_buttons.php:62
+msgid "Hide buttons"
+msgstr "Buttons ausblenden:"
+
+#: includes/bst_share_it_admin_metabox_buttons.php:68
+msgid "Show buttons on top of post"
+msgstr "Buttons vor dem Inhalt:"
+
+#: includes/bst_share_it_admin_metabox_buttons.php:74
+msgid "Show Buttons on bottom of post"
+msgstr "Buttons nach dem Inhalt:"
+
+#: includes/bst_share_it_widget.php:398
+msgid "BST share iT buttons"
+msgstr "BST share iT Buttons"
+
+#: includes/bst_share_it_widget.php:423
+msgid "To recommend"
+msgstr "Weiterempfehlen"
+
+#: includes/bst_share_it_widget.php:437
+msgid "The widget has been added. Please save your settings before closing."
+msgstr ""
+"Das Widget wurde neu hinzugefügt. Bitte Speichern Sie Ihre Einstellungen vor "
+"dem Schließen ab."
+
+#: includes/bst_share_it_widget.php:449
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/bst_share_it_widget.php:545
+msgid "Button status:"
+msgstr "Buttonstatus:"
+
+#: includes/bst_share_it_widget.php:547
+msgid "Share buttons visible on opening the website!"
+msgstr "Sharebuttons geöffnet beim Seitenaufruf!"
+
+#: includes/bst_share_it_widget.php:785
+msgid "If you like the website, recommend it gladly."
+msgstr "Sollte Ihnen das Angebot gefallen, empfehlen Sie es gerne weiter."
+
+#: includes/bst_share_it_widget.php:950 includes/bst_share_it_widget.php:1019
+msgid "SHARE"
+msgstr "TEILEN"
+
+#: includes/bst_share_it_widget.php:968
+msgid "TWEET"
+msgstr ""
+
+#: includes/bst_share_it_widget.php:985
+msgid "+1"
+msgstr ""
+
+#: includes/bst_share_it_widget.php:1002
+msgid "PIN"
+msgstr ""
+
+#: includes/bst_share_it_widget.php:1037
+msgid "XING"
+msgstr ""
+
+#: includes/bst_share_it_widget.php:1054
+msgid "STUMB"
+msgstr ""
+
+#: includes/bst_share_it_widget.php:1072
+msgid "MAIL"
+msgstr ""
+
+#: includes/bst_share_it_widget.php:1413
+msgid "Click here to activate the like button"
+msgstr "Klicken um den Facebook Like Button zu aktivieren"
+
+#: includes/bst_share_it_widget.php:1413
+msgid "Like Button without ringing home"
+msgstr "Like Button, der nicht nach Hause telefoniert"
+
+#~ msgid "welcome to the BST Social Buttons"
+#~ msgstr "herzlich willkommen zu den BST Social Buttons"
+
+#~ msgid "Show share counter:"
+#~ msgstr "Zähler anzeigen"
+
+#~ msgid "BST Social Buttons"
+#~ msgstr "BST Social Buttons"
+
+#~ msgid "Securely share"
+#~ msgstr "Sicher teilen"
+
+#~ msgid "BST Share it buttons"
+#~ msgstr "BSTshareiT Buttons"
+
+#~ msgid ""
+#~ "Invalid input [ Info backcolor ] - Allowed are \"a-f\", \"A-F\", \"0-9\" "
+#~ "and \". : /\""
+#~ msgstr ""
+#~ "Eingabefehler [ Info Hiontergrundfarbe ] - Erlaubt sind die Zeichen  \"a-f"
+#~ "\", \"A-F\", \"0-9\""
+
+#~ msgid ""
+#~ "Invalid input [ Facebook article author ] - Allowed are \"a-z\", \"A-Z\", "
+#~ "\"0-9\" and \". : /\""
+#~ msgstr ""
+#~ "Eingabefehler [ Facebook Artikel Autor] - Erlaubt sind die Zeichen \"a-z"
+#~ "\", \"A-Z\", \"0-9\"und \". : /\""
+
+#~ msgid ""
+#~ "Invalid input [ Facebook article publisher ] - Allowed are \"a-z\", \"A-Z"
+#~ "\", \"0-9\" and \". : /\""
+#~ msgstr ""
+#~ "Eingabefehler [ Facebook Publisher] - Erlaubt sind die Zeichen \"a-z\", "
+#~ "\"A-Z\", \"0-9\"und \". : /\""
+
+# @ testimonial-basics
+#~ msgid "User role to edit testimonials"
+#~ msgstr "Benutzer-Rolle zur Beurteilungsbearbeitung"
+
+# @ testimonial-basics
+#~ msgid "default: Administrator"
+#~ msgstr "Voreinstellung: Administrator"
+
+# @ testimonial-basics
+#~ msgid "Testimonial notify email address"
+#~ msgstr "Email für Beurteilungs Benachrichtigung"
+
+# @ testimonial-basics
+#~ msgid "Leave blank to use admin email"
+#~ msgstr "Leer lassen für Benutzung der Admin Email"
+
+# @ testimonial-basics
+#~ msgid "Use Ratings"
+#~ msgstr "Benutze Bewertung"
+
+# @ testimonial-basics
+#~ msgid "Use 5 star rating system"
+#~ msgstr "Benutze 5 Sterne Bewertungssystem"
+
+# @ testimonial-basics
+#~ msgid "Use CSS Rating System"
+#~ msgstr "Verwenden Sie CSS-Rating-System"
+
+#~ msgid "Use CSS instead of jQuery"
+#~ msgstr "Verwenden Sie CSS anstelle von jQuery"
+
+#~ msgid "Star color for css stars"
+#~ msgstr "Star-Farbe für css Sternen"
+
+#~ msgid "default: #EACB1E, only used for css stars"
+#~ msgstr "Standard: # EACB1E, nur für CSS verwendet Sternen"
+
+#~ msgid "Shadow color for the css stars"
+#~ msgstr "Schattenfarbe für die css Sternen"
+
+#~ msgid "default: #000000, only used for css stars"
+#~ msgstr "Standard: # 000000, nur für CSS verwendet Sternen"
+
+# @ testimonial-basics
+#~ msgid "Enable the testimonial rotator script"
+#~ msgstr "Aktiviere das Beurteilungs-Rotierer Skript"
+
+# @ testimonial-basics
+#~ msgid "Default: checked"
+#~ msgstr "Voreinstellung: gesetzt"
+
+# @ testimonial-basics
+#~ msgid "Use schema markup"
+#~ msgstr "Benutze Markup-Schema"
+
+# @ testimonial-basics
+#~ msgid "Schema markup is used for Google Snippets to help SEO"
+#~ msgstr ""
+#~ "Markup-Schema wird zur SEO Unterstüzung bei Google Snippets verwendet"
+
+# @ testimonial-basics
+#~ msgid "Schema Company Name"
+#~ msgstr "Schema Unternehmensname"
+
+# @ testimonial-basics
+#~ msgid "Name of Company the testimonials are about."
+#~ msgstr "Name des beurteilten Unternehmens "
+
+# @ testimonial-basics
+#~ msgid "Schema Company Website Reference"
+#~ msgstr "Schema Unternehmens-Website"
+
+# @ testimonial-basics
+#~ msgid "Company website address "
+#~ msgstr "Adresse der Unternehmens-Website "
+
+# @ testimonial-basics
+#~ msgid "Schema Display Company"
+#~ msgstr "Schema Anzeige Unternehmen"
+
+# @ testimonial-basics
+#~ msgid "Display company name and website"
+#~ msgstr "Name des Unternehmens und Website anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Schema Display Aggregate"
+#~ msgstr "Schema Anzeige Zusammenfassung"
+
+# @ testimonial-basics
+#~ msgid "Display a summary of reviews"
+#~ msgstr "Zusammenfassung der Beurteilungen anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Schema Display Reviews"
+#~ msgstr "Schema Anzeige Beurteilungen"
+
+# @ testimonial-basics
+#~ msgid "Select to display the individual reviews"
+#~ msgstr "Auswählen zur Anzeige der einzelnen Beurteilungen"
+
+# @ testimonial-basics
+#~ msgid "Use Group Name for Aggregate Name"
+#~ msgstr "Benutze Gruppennamen um Namen zusammenzufassen "
+
+# @ testimonial-basics
+#~ msgid "Select to use the Group Name"
+#~ msgstr "Auswählen um Gruppennamen zu benutzen"
+
+# @ testimonial-basics
+#~ msgid "Custom Aggregate Review Name"
+#~ msgstr "Namen der Beurteilungszusammenfassung anpassen"
+
+# @ testimonial-basics
+#~ msgid "Enter a name for the aggregate review"
+#~ msgstr "Namen für die Beurteilungszusammenfassung eingeben"
+
+# @ testimonial-basics
+#~ msgid "Group Individual Review Name"
+#~ msgstr "Gruppe als individuellen Beurteilungs-Namen"
+
+# @ testimonial-basics
+#~ msgid "Use group name for individual review name"
+#~ msgstr "Benutze Gruppen-Namen als individuellen Beurteilungs-Namen"
+
+# @ testimonial-basics
+#~ msgid "Custom Individual Review Name"
+#~ msgstr "Individuellen Beurteilungs-Namen anpassen"
+
+# @ testimonial-basics
+#~ msgid "If not using the Group Name, enter one here"
+#~ msgstr ""
+#~ "Wenn nicht der Gruppen-Name verwendet wird, hier einen anderen angeben"
+
+# @ testimonial-basics
+#~ msgid "Auto Approve Testimonials"
+#~ msgstr "Beurteilungen automatisch freigeben"
+
+# @ testimonial-basics
+#~ msgid "CAUTION: Use at your own risk."
+#~ msgstr "ACHTUNG: Verwendung auf eigenes Risiko."
+
+# @ testimonial-basics
+#~ msgid "Use captcha on input forms"
+#~ msgstr "Captchas in Eingabemasken verwenden"
+
+# @ testimonial-basics
+#~ msgid "Check to include captcha."
+#~ msgstr "setzen um Captchas zu verwenden"
+
+# @ testimonial-basics
+#~ msgid "Use color captcha option"
+#~ msgstr "Farb-Captcha verwenden"
+
+# @ testimonial-basics
+#~ msgid "Check to use the color captcha option"
+#~ msgstr "setzen um die Farb-Captcha Option zu verwenden"
+
+# @ testimonial-basics
+#~ msgid "Exclude Website in input form"
+#~ msgstr "Website nicht in der Eingabemaske abfragen"
+
+# @ testimonial-basics
+#~ msgid "Default: unchecked"
+#~ msgstr "Voreinstellung: nicht gesetzt"
+
+# @ testimonial-basics
+#~ msgid "Require website input"
+#~ msgstr "Erfordern Website-Eingang"
+
+# @ testimonial-basics
+#~ msgid "Exclude Location in input form"
+#~ msgstr "Ort nicht in der Eingabemaske abfragen"
+
+# @ testimonial-basics
+#~ msgid "Require Location input"
+#~ msgstr "Erfordern Lage Eingabe"
+
+# @ testimonial-basics
+#~ msgid "Include email note"
+#~ msgstr "Email Info einbinden"
+
+# @ testimonial-basics
+#~ msgid "Check to include"
+#~ msgstr "für Einbindung setzen"
+
+# @ testimonial-basics
+#~ msgid "Email note"
+#~ msgstr "Email Info"
+
+# @ testimonial-basics
+#~ msgid "Default:Email is not published"
+#~ msgstr "Voreinstellung: Email is not published"
+
+#~ msgid "Use popup messages"
+#~ msgstr "Verwenden Sie Popup-Meldungen"
+
+#~ msgid "Use popup messages for errors and thankyou"
+#~ msgstr "Verwenden Sie Popup-Meldungen für Fehler und danke"
+
+# @ testimonial-basics
+#~ msgid "Base Font size"
+#~ msgstr "Standard Schriftgröße"
+
+# @ testimonial-basics
+#~ msgid "1em is equal to 16px"
+#~ msgstr "1em entspricht 16px"
+
+# @ testimonial-basics
+#~ msgid "Include title on input form"
+#~ msgstr "Titel in Eingabemaske einbinden"
+
+# @ testimonial-basics
+#~ msgid "Title for Input Form"
+#~ msgstr "Titel für Eingabemaske"
+
+# @ testimonial-basics
+#~ msgid "Default:Add a Testimonial"
+#~ msgstr "Voreinstellung: Add a Testimonial"
+
+# @ testimonial-basics
+#~ msgid "Show html allowed strip in input form"
+#~ msgstr "\"HTML zulässig\" in der Eingabemaske anzeigen"
+
+#~ msgid "Show gravatar link"
+#~ msgstr "Zeigen Gravatar Link"
+
+#~ msgid "Allows users to set up Gravatar"
+#~ msgstr "Ermöglicht Benutzern die Einrichtung Gravatar"
+
+# @ testimonial-basics
+#~ msgid "Author Label"
+#~ msgstr "Autor Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Author*"
+#~ msgstr "Voreinstellung: Author*"
+
+# @ testimonial-basics
+#~ msgid "Email Label"
+#~ msgstr "Email Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Email*"
+#~ msgstr "Voreinstellung: Email*"
+
+# @ testimonial-basics
+#~ msgid "Website Label"
+#~ msgstr "Website Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Website"
+#~ msgstr "Voreinstellung: Website"
+
+# @ testimonial-basics
+#~ msgid "Location Label"
+#~ msgstr "Ort Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Location"
+#~ msgstr "Voreinstellung: Location"
+
+# @ testimonial-basics
+#~ msgid "Rating Label"
+#~ msgstr "Bewertungs Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Rating"
+#~ msgstr "Voreinstellung: Rating"
+
+# @ testimonial-basics
+#~ msgid "Testimonial Label"
+#~ msgstr "Beurteilungs Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Testimonial*"
+#~ msgstr "Voreinstellung: Testimonial*"
+
+#~ msgid "Captcha Label"
+#~ msgstr "Captcha"
+
+#~ msgid "Default: Enter Captcha"
+#~ msgstr "Standard: Geben Sie Captcha"
+
+# @ testimonial-basics
+#~ msgid "Submit Label"
+#~ msgstr "\"absenden\" Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Submit"
+#~ msgstr "Voreinstellung: Submit"
+
+# @ testimonial-basics
+#~ msgid "Reset Label"
+#~ msgstr "\"Zurücksetzen\" Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Reset"
+#~ msgstr "Voreinstellung: Reset"
+
+# @ testimonial-basics
+#~ msgid "Required Label"
+#~ msgstr "Pflichtfeld Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: * Required"
+#~ msgstr "Voreinstellung: * Required"
+
+# @ testimonial-basics
+#~ msgid "Show html allowed strip in widget form"
+#~ msgstr "\"HTML zulässig\" in der Widget-Maske anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Default: not checked"
+#~ msgstr "Voreinstellung: nicht gesetzt"
+
+#~ msgid "Show input labels above input box"
+#~ msgstr "Zeigen Eingangs Beschriftungen über Eingabefeld"
+
+# @ testimonial-basics
+#~ msgid "Default: not checked or inside input box"
+#~ msgstr "Default: nicht überprüft oder in Eingabefeld"
+
+# @ testimonial-basics
+#~ msgid "Widget Author Label"
+#~ msgstr "Widget Autor Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Author-Required"
+#~ msgstr "Voreinstellung: Author-Required"
+
+# @ testimonial-basics
+#~ msgid "Widget Email Label"
+#~ msgstr "Widget Email Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Email-Required"
+#~ msgstr "Voreinstellung: Email-Required"
+
+# @ testimonial-basics
+#~ msgid "Widget Website Label"
+#~ msgstr "Widget Website Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Website-Optional"
+#~ msgstr "Voreinstellung: Website-Optional"
+
+# @ testimonial-basics
+#~ msgid "Widget Location Label"
+#~ msgstr "Widget Ort Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Location-Optional"
+#~ msgstr "Voreinstellung: Location-optional"
+
+# @ testimonial-basics
+#~ msgid "Widget Rating Label"
+#~ msgstr "Widget Bewertungs Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Rating-Optional"
+#~ msgstr "Voresinstellung: Rating-optional"
+
+# @ testimonial-basics
+#~ msgid "Widget Testimonial Label"
+#~ msgstr "Widget Beurteilungs Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Default: Testimonial-Required"
+#~ msgstr "Voreinstellung: Testimonial-Required"
+
+#~ msgid "Widget Captcha Label"
+#~ msgstr "Widget-Captcha-Label"
+
+# @ testimonial-basics
+#~ msgid "Widget Submit Label"
+#~ msgstr "Widget \"absenden\" Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Widget Reset Label"
+#~ msgstr "Widget Zurücksetzen Bezeichner"
+
+# @ testimonial-basics
+#~ msgid "Widget Required Label"
+#~ msgstr "Erforderliche Label-Widget"
+
+#~ msgid "Optional-leave blank if not using"
+#~ msgstr "Optional-freilassen, wenn nicht mit"
+
+# @ testimonial-basics
+#~ msgid "Layout Option"
+#~ msgstr "Layout Optionen"
+
+# @ testimonial-basics
+#~ msgid "Try them to see what you prefer"
+#~ msgstr "Probieren Sie es aus und entscheiden Sie was Sie bevorzugen"
+
+# @ testimonial-basics
+#~ msgid "Font for Content Display"
+#~ msgstr "Anzeige-Schriftart"
+
+#~ msgid "default is theme font"
+#~ msgstr "Standardwert ist Designschriftart"
+
+# @ testimonial-basics
+#~ msgid "Use pagination"
+#~ msgstr "Seitenumbruch anwenden"
+
+# @ testimonial-basics
+#~ msgid "Check to include for ALL or ALL GROUP displays."
+#~ msgstr "setzen um ALL oder ALL GROUP Anzeige einzubinden"
+
+# @ testimonial-basics
+#~ msgid "Testimonials per page"
+#~ msgstr "Beurteilungen pro Seite"
+
+# @ testimonial-basics
+#~ msgid "select 3, 5 or 10 per page"
+#~ msgstr "wählen Sie 3, 5 oder 10 pro Seite"
+
+# @ testimonial-basics
+#~ msgid "Use excerpts in testimonial display"
+#~ msgstr "Auszüge in der Beurteilungs-Anzeige nutzen"
+
+#~ msgid "Excerpt length in words"
+#~ msgstr "Auszug Länge in Worten"
+
+#~ msgid "default: 80"
+#~ msgstr "Standard: 80"
+
+# @ testimonial-basics
+#~ msgid "Show title in testimonial"
+#~ msgstr "Zeige Titel in der Beurteilung"
+
+# @ testimonial-basics
+#~ msgid "Use schema name options without the schema"
+#~ msgstr "Verwende Schema-Namen Optionen ohne das Schema"
+
+# @ testimonial-basics
+#~ msgid "Show website in testimonial"
+#~ msgstr "Website in Beurteilung anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Check to include website"
+#~ msgstr "setzen um die Website einzubinden"
+
+# @ testimonial-basics
+#~ msgid "Show date in testimonial"
+#~ msgstr "Datum in Beurteilung anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Check to include date"
+#~ msgstr "setzen um das Datum einzubinden"
+
+# @ testimonial-basics
+#~ msgid "Show location in testimonial"
+#~ msgstr "Ort in Beurteilung anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Check to include location"
+#~ msgstr "setzen um den Ort einzubinden"
+
+# @ testimonial-basics
+#~ msgid "Use gravatars"
+#~ msgstr "Verwende Gravatare"
+
+#~ msgid "Use round gravatars/images"
+#~ msgstr "Verwenden Sie Runde Gravatars/Bilder"
+
+#~ msgid "All images will be round"
+#~ msgstr "Alle Bilder werden Runde"
+
+# @ testimonial-basics
+#~ msgid "Use gravatar substitute"
+#~ msgstr "Verwende Gravatar-Ersatz"
+
+# @ testimonial-basics
+#~ msgid "Use substitute if gravatar unavailable"
+#~ msgstr "Verwende Ersatz wenn der Gravatar nicht verfügbar ist"
+
+# @ testimonial-basics
+#~ msgid "Gravatar size"
+#~ msgstr "Gravatar Größe"
+
+# @ testimonial-basics
+#~ msgid "Select a size for the gravatar"
+#~ msgstr "Wählen sie eine Größe für den Gravatar"
+
+# @ testimonial-basics
+#~ msgid "Use italic font style"
+#~ msgstr "Kursivschrift verwenden"
+
+# @ testimonial-basics
+#~ msgid "Time between slides"
+#~ msgstr "Zeit zwischen den Anzeigenwechseln"
+
+# @ testimonial-basics
+#~ msgid "default: 7000 ms, IE9,IE10 uses default"
+#~ msgstr "Voreinstellung: 7000ms, IE9, IE10 verwenden die Voreinstellung"
+
+# @ testimonial-basics
+#~ msgid "Rotator height in pixels"
+#~ msgstr "Rotierer-Höhe in Pixeln"
+
+# @ testimonial-basics
+#~ msgid "default: variable"
+#~ msgstr "Voreinstellung: variable"
+
+# @ testimonial-basics
+#~ msgid "Rotator transition effect"
+#~ msgstr "Rotierer Übergangseffekt"
+
+# @ testimonial-basics
+#~ msgid "default: fade, IE9,IE10 uses default"
+#~ msgstr "Voreinstellung: ausblenden, IE9, IE10 verwenden die Vorseinstellung"
+
+# @ testimonial-basics
+#~ msgid "Use formatted display"
+#~ msgstr "Verwende formatierte Ausgabe"
+
+#~ msgid "Color Option 1"
+#~ msgstr "Farb-Option 1"
+
+#~ msgid "wrap color: Top Meta,Bottom Meta, Meta box color: Side Meta"
+#~ msgstr "Wrap Farbe: Top Meta, unteren Meta, Meta box Farbe: Seite Meta"
+
+#~ msgid "Color Option 2"
+#~ msgstr "Farb-Option 2"
+
+#~ msgid "Content Box Color"
+#~ msgstr "Inhaltsfeld Farbe"
+
+# @ testimonial-basics
+#~ msgid "Testimonial Box Font Color"
+#~ msgstr "Schriftfarbe der Beurteilung"
+
+# @ testimonial-basics
+#~ msgid "default: #000000"
+#~ msgstr "Voreinstellung: #000000"
+
+# @ testimonial-basics
+#~ msgid "Author,Location, and Date Color"
+#~ msgstr "Farbe für Autor, Ort und Datum"
+
+# @ testimonial-basics
+#~ msgid "Website Link Color"
+#~ msgstr "Website Link Farbe"
+
+# @ testimonial-basics
+#~ msgid "default: #3384E8"
+#~ msgstr "Voreinstellung: #3384E8"
+
+# @ testimonial-basics
+#~ msgid "Website Link Hover Color"
+#~ msgstr "Website Link Hover Farbe"
+
+# @ testimonial-basics
+#~ msgid "default: #FFFFFF"
+#~ msgstr "Voreinstellung: #FFFFFF"
+
+# @ testimonial-basics
+#~ msgid "Widget Layout Option"
+#~ msgstr "Widget Layout Option"
+
+# @ testimonial-basics
+#~ msgid "Font for Widget Display"
+#~ msgstr "Schriftart für Widget-Anzeige"
+
+# @ testimonial-basics
+#~ msgid "Use excerpts in widget testimonial display"
+#~ msgstr "Verwende beurteilungs-Auszüge in Widget-Anzeige"
+
+# @ testimonial-basics
+#~ msgid "Widget excerpt length in characters"
+#~ msgstr "Länge des Widget-Auszugs in Buchstaben "
+
+#~ msgid "default: 25"
+#~ msgstr "Standard: 25"
+
+# @ testimonial-basics
+#~ msgid "Show website in widget"
+#~ msgstr "Website im Widget anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Show date in widget"
+#~ msgstr "Datum im Widget anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Show location in widget"
+#~ msgstr "Ort im Widget anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Use substitute if Gravatar unavailable"
+#~ msgstr "Verwende Platzhalter wenn der Gravatar nicht verfügbar ist"
+
+# @ testimonial-basics
+#~ msgid "Widget time between slides"
+#~ msgstr "Widget Zeit zwischen Anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Widget rotator height in pixels"
+#~ msgstr "Widget Rotierer Höhe in Pixeln"
+
+# @ testimonial-basics
+#~ msgid "Widget rotator transition effect"
+#~ msgstr "Widget Rotierer Übergangseffekt"
+
+# @ testimonial-basics
+#~ msgid "Background Color"
+#~ msgstr "Hintergrundfarbe"
+
+# @ testimonial-basics
+#~ msgid "default: #EDEDED"
+#~ msgstr "Voreinstellung: #EDEDED"
+
+#~ msgid "Divider Color"
+#~ msgstr "Teiler Farbe"
+
+#~ msgid "default: #CECECE"
+#~ msgstr "Standard: #CECECE"
+
+# @ testimonial-basics
+#~ msgid "Font Color"
+#~ msgstr "Schriftfarbe"
+
+# @ testimonial-basics
+#~ msgid "Author is required"
+#~ msgstr "Autor ist Pflichtfeld"
+
+# @ testimonial-basics
+#~ msgid "Valid email is required"
+#~ msgstr "Gültige Email ist Plichtfeld"
+
+# @ testimonial-basics
+#~ msgid "Website is required"
+#~ msgstr "Webseite erforderlich"
+
+# @ testimonial-basics
+#~ msgid "Location is required"
+#~ msgstr "Ort erforderlich"
+
+# @ testimonial-basics
+#~ msgid "Testimonial is required"
+#~ msgstr "Beurteilung ist Pflichtfeld"
+
+# @ testimonial-basics
+#~ msgid "Captcha is invalid - please try again"
+#~ msgstr "Captcha ist ungültig - bitte wiederholen"
+
+# @ testimonial-basics
+#~ msgid "You have received a testimonial!"
+#~ msgstr "Sie haben eine Beurteilung bekommen!"
+
+# @ testimonial-basics
+#~ msgid "Name: "
+#~ msgstr "Name: "
+
+# @ testimonial-basics
+#~ msgid "Email: "
+#~ msgstr "Email: "
+
+# @ testimonial-basics
+#~ msgid "Comments: "
+#~ msgstr "Kommentare: "
+
+# @ testimonial-basics
+#~ msgid "Log in to approve or view it:"
+#~ msgstr "Anmelden um freizugeben oder anzuzeigen:"
+
+# @ testimonial-basics
+#~ msgid "more"
+#~ msgstr "mehr"
+
+# @ testimonial-basics
+#~ msgid "You must have 2 approved testimonials to use a rotated display!"
+#~ msgstr ""
+#~ "Es werden 2 freigegebene Beurteilungen benötigt um die rotierende Anzeige "
+#~ "zu verwenden!"
+
+# @ testimonial-basics
+#~ msgid "There are no approved testimonials to display!"
+#~ msgstr "Es gibt keine freigebenen Beurteilungen!"
+
+# @ testimonial-basics
+#~ msgid "There were errors so the testimonial was not added: "
+#~ msgstr ""
+#~ "Es sind fehler aufgetreten, die Beurteilung wurde nicht gespeichert: "
+
+# @ testimonial-basics
+#~ msgid "Testimonial Submitted - Thank You!"
+#~ msgstr "Eingereicht Testimonial - Vielen Dank!"
+
+# @ testimonial-basics
+#~ msgid "Allowed"
+#~ msgstr "zugelassen"
+
+# @ testimonial-basics
+#~ msgid "Add a photo? "
+#~ msgstr "Foto hinzufügen? "
+
+# @ testimonial-basics
+#~ msgid "Company"
+#~ msgstr "Unternehmen"
+
+# @ testimonial-basics
+#~ msgid "Website"
+#~ msgstr "Website"
+
+# @ testimonial-basics
+#~ msgid "All Reviews"
+#~ msgstr "Alle Beurteilungen"
+
+# @ testimonial-basics
+#~ msgid "Aggregate Review"
+#~ msgstr "Beurteilungszusammenfassung"
+
+# @ testimonial-basics
+#~ msgid "out of"
+#~ msgstr "aus"
+
+# @ testimonial-basics
+#~ msgid "vote"
+#~ msgstr "abstimmen"
+
+# @ testimonial-basics
+#~ msgid "not rated"
+#~ msgstr "nicht bewertet"
+
+# @ testimonial-basics
+#~ msgid "votes"
+#~ msgstr "Stimmen"
+
+# @ testimonial-basics
+#~ msgid "no reviews yet"
+#~ msgstr "bisher keine Beurteilungen"
+
+# @ testimonial-basics
+#~ msgid "review"
+#~ msgstr "Beurteilung"
+
+# @ testimonial-basics
+#~ msgid "reviews"
+#~ msgstr "Beurteilungen"
+
+#~ msgid "Testimonial Basics - Instructions"
+#~ msgstr "Testimonial-Grundlagen - Anleitung"
+
+# @ testimonial-basics
+#~ msgid "Introduction"
+#~ msgstr "Einleitung"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Testimonial Basics facilitates easy management of customer testimonials."
+#~ msgstr ""
+#~ "Testimonial Basics erleichtert die einfache Handhabung von Kunden "
+#~ "Beurteilungen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "The user can set up an input form in a page or in a widget, and display "
+#~ "all or selected testimonials in a page or a widget."
+#~ msgstr ""
+#~ "Der Anwender kann eine Erfassungsmaske auf einer Seite oder in einem "
+#~ "Widget einrichten und alle oder ausgewählte Beurteilungen auf einer Seite "
+#~ "oder in einem Widget anzeigen lassen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you like the program show your appreciation, buy me a coffee, beer, or "
+#~ "a bottle of wine (red please!)."
+#~ msgstr ""
+#~ "Wenn Sie das Programm mögen, zeigen Sie Ihre Anerkennung: bezahlen Sie "
+#~ "mir einen Kaffee, ein Bier, oder eine Flasche Wein (Rotwein bitte!)"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Or just head to the website link above and put in a testimonial, or send "
+#~ "me an e-mail, pats on the back are pretty nice too!"
+#~ msgstr ""
+#~ "Oder gehen Sie zum oben stehenden Website-Link und geben eine Beurteilung "
+#~ "ab, oder schicken Sie mir eine Email, Schulterklopfen ist auch ziemlich "
+#~ "nett!"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "I plan to do updates if required, so also contact me if you find any "
+#~ "problems, or have suggestions for improvements."
+#~ msgstr ""
+#~ "Ich werde das Plugin weiterentwickeln - wenn es gewünscht wird. Nehmen "
+#~ "Sie Kontakt mit mir auf, wenn Sie auf Probleme stoßen, oder Vorschläge "
+#~ "für Verbesserungen haben."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "I briefly discuss the use of the plugin below. For detailed "
+#~ "documentation, visit the plugin site."
+#~ msgstr ""
+#~ "Nachfolgend beschreibe ich kurz die Anwendung des Plugins. Eine "
+#~ "detailliertere Dokumentation finden Sie auf der Plugin-Seite."
+
+# @ testimonial-basics
+#~ msgid "I hope you enjoy Testimonial Basics!"
+#~ msgstr "Ich hoffe Sie mögen Testimonial Basics!"
+
+# @ testimonial-basics
+#~ msgid "Visitor Input Form"
+#~ msgstr "Erfassungs-Maske für Besucher"
+
+# @ testimonial-basics
+#~ msgid "You can set up a visitor input form very easily."
+#~ msgstr "Sie können sehr einfach eine Erfassungsmaske einrichten."
+
+# @ testimonial-basics
+#~ msgid "Simply include in your page content:"
+#~ msgstr "Binden Sie auf Ihrer Seite einfach ein:"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "IMPORTANT : Make sure you set up the page using the \"Text\" editor and "
+#~ "not the \"Visual\" editor."
+#~ msgstr ""
+#~ "WICHTIG: Stellen Sie sicher, dass Sie im \"Text\" Editor und nicht im "
+#~ "\"Visual\" Editor arbeiten."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "group - This will be the group name for the testimonial, default is \"All"
+#~ "\""
+#~ msgstr ""
+#~ "Gruppe - Dies wird der Name der Gruppe für das Zeugnis zu sein, ist "
+#~ "standardmäßig \"Alle\""
+
+#~ msgid "form - The first form is 1 by default"
+#~ msgstr "Form - Die erste Form ist standardmäßig 1"
+
+#~ msgid ""
+#~ "If you have more than one form in the content area number them 1,2,3, ..."
+#~ msgstr ""
+#~ "Wenn Sie mehr als eine Form im Content-Bereich Nummer sie 1,2,3, ... haben"
+
+# @ testimonial-basics
+#~ msgid "Visitor Input Widget"
+#~ msgstr "Erfassungs-Widget für Besucher"
+
+# @ testimonial-basics
+#~ msgid "You can also use a widget as a user input form."
+#~ msgstr "Sie können auch ein Widget als Erfassungs-Maske verwenden."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Go to \"Appearance\" => \"Widgets\" and drag the widget to the widgetized "
+#~ "area."
+#~ msgstr ""
+#~ "Gehen Sie zu \"Design\" => \"Widgets\" und ziehen Sie das Widget in die "
+#~ "gewünschte Seitenleiste (Sidebar)."
+
+# @ testimonial-basics
+#~ msgid "Displaying Testimonials"
+#~ msgstr "Beurteilungen anzeigen"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "You can display testimonials in the content of a page using shortcodes or "
+#~ "you can use widgets to display testimonials."
+#~ msgstr ""
+#~ "Sie können mit der Hilfe von \"Shortcodes\" die Beurteilungen auf einer "
+#~ "Seite anzeigen lassen, oder Sie können Widgets für die Anzeige verwenden."
+
+# @ testimonial-basics
+#~ msgid "Using a Shortcode"
+#~ msgstr "Shortcode verwenden"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "To display testimonials create a new page and enter the following "
+#~ "shortcode :"
+#~ msgstr ""
+#~ "Um Beurteilungen anzuzeigen erstellen Sie eine neue Seite und geben den "
+#~ "folgenden Shortcode ein:"
+
+# @ testimonial-basics
+#~ msgid "Options for"
+#~ msgstr "Optionen für"
+
+# @ testimonial-basics
+#~ msgid "ignores groups"
+#~ msgstr "ignoriert die Gruppe"
+
+# @ testimonial-basics
+#~ msgid "display only this grouping"
+#~ msgstr "nur diese Gruppierung anzeigen"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "displays all testimonials, or put in the number of testimonials you want "
+#~ "to display"
+#~ msgstr ""
+#~ "zeigt alle Beurteilungen an, oder die eingegebene Anzahl von Beurteilung"
+
+# @ testimonial-basics
+#~ msgid "display randomly"
+#~ msgstr "zufällige Anzeige"
+
+# @ testimonial-basics
+#~ msgid "display by order number, lowest to highest"
+#~ msgstr "nach Sortier-Nummer anzeigen, aufsteigend"
+
+# @ testimonial-basics
+#~ msgid "display most recent first"
+#~ msgstr "Neueste zuerst anzeigen"
+
+# @ testimonial-basics
+#~ msgid "leave blank for multiple testimonials"
+#~ msgstr "leer lassen für mehrere Beurteilungen"
+
+# @ testimonial-basics
+#~ msgid "put in testimonial ID"
+#~ msgstr "Beurteilungs ID eintragen"
+
+# @ testimonial-basics
+#~ msgid "display all selected testimonials"
+#~ msgstr "alle ausgewählten Beurteilungen anzeigen"
+
+# @ testimonial-basics
+#~ msgid "rotate each testimonial"
+#~ msgstr "die Beurteilungen rotieren"
+
+#~ msgid "default to whatever is set up in the General Options Panel"
+#~ msgstr ""
+#~ "Standard, was auch immer im Optionsmenü von General eingerichtet ist"
+
+#~ msgid "no format top meta"
+#~ msgstr "keine Format-Top-meta"
+
+#~ msgid "no format bottom meta"
+#~ msgstr "kein Format unten meta"
+
+#~ msgid "no format side meta"
+#~ msgstr "keine Format-Seite-meta"
+
+#~ msgid "format top meta"
+#~ msgstr "Format Top meta"
+
+#~ msgid "format bottom meta"
+#~ msgstr "Format unten meta"
+
+#~ msgid "format side meta"
+#~ msgstr "Format Seite meta"
+
+#~ msgid "whatever is set up in the General Options Panel"
+#~ msgstr "Was auch immer im Optionsmenü von General eingerichtet ist"
+
+#~ msgid "override to yes"
+#~ msgstr "Überschreiben auf Ja"
+
+#~ msgid "override to no"
+#~ msgstr "Überschreiben auf Nein"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "* Note that if id is not blank ( id=\"\" ), the \"group\", \"by\" and "
+#~ "\"number\" attributes are ignored."
+#~ msgstr ""
+#~ "* Beachten Sie: wenn id nicht leer ist ( id=\"\" ), werden \"group\", \"by"
+#~ "\" und \"number\" Angaben ignoriert."
+
+# @ testimonial-basics
+#~ msgid "* You must have more then 2 testimonials to rotate them."
+#~ msgstr "* Sie brauchen mehr als 2 Zeugnisse um rotieren zu lassen."
+
+# @ testimonial-basics
+#~ msgid "* Use pagination to display a lot of testimonials."
+#~ msgstr "* Benutzen Sie den Seitenumbruch um mehr Beurteilungen anzuzeigen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "* Pagination can be used to display all testimonials or all testimonials "
+#~ "in a group."
+#~ msgstr ""
+#~ "* Seitenumbruch kann zur Anzeige aller Beurteilungen, oder aller "
+#~ "Beurteilungen einer Gruppe genutzt werden."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "* Do not select rotate=\"yes\" more than 5 times in a page content area"
+#~ msgstr ""
+#~ "* Verwenden Sie rotieren=\"yes\" nicht mehr als 5 Mal pro Inhalts-Seite"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "* IMPORTANT : Make sure you set up the page using the \"Text\" editor and "
+#~ "not the \"Visual\" editor."
+#~ msgstr ""
+#~ "* WICHTIG: Stellen Sie sicher, dass Sie im \"Text\" Editor und nicht im "
+#~ "\"Visual\" Editor arbeiten."
+
+#~ msgid ""
+#~ "* Layout options allow you to override the default layouts and have "
+#~ "multiple layouts on your site."
+#~ msgstr ""
+#~ "* Layout-Optionen können Sie überschreiben die Standardlayouts und haben "
+#~ "mehrere Layouts auf Ihrer Website."
+
+#~ msgid ""
+#~ "* Schema should only be used once on a page, this option allows you to "
+#~ "control that."
+#~ msgstr ""
+#~ "* Schema sollte nur verwendet werden, wenn auf einer Seite, mit dieser "
+#~ "Option Sie die steuern können."
+
+# @ testimonial-basics
+#~ msgid "Using a Widget"
+#~ msgstr "Widget verwenden"
+
+# @ testimonial-basics
+#~ msgid "You can also use a widget to display a testimonial."
+#~ msgstr "Sie können auch ein Widget verwenden um Beurteilungen anzuzeigen."
+
+# @ testimonial-basics
+#~ msgid "Drag the widget to a widetized area and enter a title"
+#~ msgstr ""
+#~ "Ziehen Sie das Widget auf eine Seitenleiste (Sidebar) und geben Sie einen "
+#~ "Namen ein"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "The options for display are the same as in the shortcode explained above"
+#~ msgstr ""
+#~ "Für die Anzeige stehen die gleichen Optionen zur Verfügung wie bei den "
+#~ "Shortcodes"
+
+# @ testimonial-basics
+#~ msgid "Save the settings"
+#~ msgstr "Einstellungen speichern"
+
+# @ testimonial-basics
+#~ msgid "* The fewer the testimonials the lower the load time"
+#~ msgstr "* Je weniger Beurteilungen desto geringer die Ladezeit"
+
+# @ testimonial-basics
+#~ msgid "* Rotate a maximum of 10 testimonials"
+#~ msgstr "* Lassen Sie nicht mehr als 10 Beurteilungen rotieren"
+
+# @ testimonial-basics
+#~ msgid "* You can not use more than 5 rotating widgets on a page"
+#~ msgstr ""
+#~ "* Sie können nicht mehr als 5 rotierende Widgets pro Seite verwenden"
+
+# @ testimonial-basics
+#~ msgid "* If you are not rotating testimonials keep the number below 3"
+#~ msgstr ""
+#~ "* Wenn Sie die Beurteilungen nicht rotieren lassen, lassen Sie weniger "
+#~ "als 3 anzeigen"
+
+# @ testimonial-basics
+#~ msgid "Save Options"
+#~ msgstr "Optionen speichern"
+
+# @ testimonial-basics
+#~ msgid "Reset Options"
+#~ msgstr "Optionen zurücksetzen"
+
+# @ testimonial-basics
+#~ msgid "Order must be a integer"
+#~ msgstr "Sortierung muss eine Ganzzahl (Integer) sein"
+
+# @ testimonial-basics
+#~ msgid "Date must be"
+#~ msgstr "Datum muss sein"
+
+# @ testimonial-basics
+#~ msgid "Time must be"
+#~ msgstr "Zeitangabe muss sein"
+
+# @ testimonial-basics
+#~ msgid "Testimonial added successfuly."
+#~ msgstr "Beurteilung wurde erfolgreich hinzugefügt."
+
+#~ msgid "Testimonial updated."
+#~ msgstr "Testimonial aktualisiert."
+
+# @ testimonial-basics
+#~ msgid "Error,testimonial was not added"
+#~ msgstr "Fehler, Beurteilung wurde nicht hinzugefügt"
+
+# @ testimonial-basics
+#~ msgid "Error, no ID"
+#~ msgstr "Fehler, ID fehlt"
+
+# @ testimonial-basics
+#~ msgid "Testimonial was deleted."
+#~ msgstr "Beurteilung wurde gelöscht"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Click the Help button for instructions or see the testimonial_basics_docs."
+#~ "html file included in the plugin docs folder."
+#~ msgstr ""
+#~ "Klicken Sie den Hilfe-Knopf für Anleitungen, oder lesen die "
+#~ "testimonial_basics_docs.html Datei im plugin docs Verzeichnis."
+
+# @ testimonial-basics
+#~ msgid "Enter or update a testimonial (*Required)"
+#~ msgstr "Erfassung oder Bearbeitung einer Beurteilung (*Pflicht)"
+
+# @ testimonial-basics
+#~ msgid "ID : "
+#~ msgstr "ID : "
+
+# @ testimonial-basics
+#~ msgid "Approved : "
+#~ msgstr "Freigegeben : "
+
+# @ testimonial-basics
+#~ msgid "Date (YYYY-MM-DD): "
+#~ msgstr "Datum (JJJJ-MM-TT): "
+
+# @ testimonial-basics
+#~ msgid "Time (HH:MM:SS): "
+#~ msgstr "Zeit (HH:MM:SS): "
+
+# @ testimonial-basics
+#~ msgid "Group : "
+#~ msgstr "Gruppe : "
+
+# @ testimonial-basics
+#~ msgid "Order : "
+#~ msgstr "Sortierung : "
+
+# @ testimonial-basics
+#~ msgid "Review Rating : "
+#~ msgstr "Beurteilungs Bewertung : "
+
+# @ testimonial-basics
+#~ msgid "Gravatar/Photo : "
+#~ msgstr "Gravatar/Foto : "
+
+# @ testimonial-basics
+#~ msgid "Author *: "
+#~ msgstr "Autor *: "
+
+# @ testimonial-basics
+#~ msgid "Email : "
+#~ msgstr "Email : "
+
+# @ testimonial-basics
+#~ msgid "Website : "
+#~ msgstr "Website : "
+
+# @ testimonial-basics
+#~ msgid "Location : "
+#~ msgstr "Ort : "
+
+# @ testimonial-basics
+#~ msgid "Testimonial *: "
+#~ msgstr "Beurteilung *: "
+
+# @ testimonial-basics
+#~ msgid "Save Testimonial"
+#~ msgstr "Beurteilung speichern"
+
+# @ testimonial-basics
+#~ msgid "Reset"
+#~ msgstr "zurücksetzen"
+
+# @ testimonial-basics
+#~ msgid "Delete"
+#~ msgstr "löschen"
+
+#~ msgid "WARNING - NO SECOND CHANCE - checked items will be deleted"
+#~ msgstr "WARNUNG - keine zweite Chance - markierten Produkte werden gelöscht"
+
+# @ testimonial-basics
+#~ msgid "Date: "
+#~ msgstr "Datum: "
+
+# @ testimonial-basics
+#~ msgid "Time: "
+#~ msgstr "Zeit: "
+
+# @ testimonial-basics
+#~ msgid "Approved: "
+#~ msgstr "Freigegeben: "
+
+# @ testimonial-basics
+#~ msgid "Group: "
+#~ msgstr "Gruppe: "
+
+# @ testimonial-basics
+#~ msgid "Order: "
+#~ msgstr "Sortierung: "
+
+# @ testimonial-basics
+#~ msgid "Rating: "
+#~ msgstr "Bewertung: "
+
+# @ testimonial-basics
+#~ msgid "E-mail: "
+#~ msgstr "Email: "
+
+# @ testimonial-basics
+#~ msgid "Location: "
+#~ msgstr "Ort: "
+
+# @ testimonial-basics
+#~ msgid "Website: "
+#~ msgstr "Website: "
+
+# @ testimonial-basics
+#~ msgid "Adding And Editing Testimonials"
+#~ msgstr "Beurteilungen hinzufügen und bearbeiten"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "To add a testimonial simply enter the data and click the Save Testimonial "
+#~ "button"
+#~ msgstr ""
+#~ "Um eine Beurteilung hinzuzufügen, geben Sie bitte die Daten ein und "
+#~ "klicken \"Beurteilung speichern\""
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "To edit a testimonial click the ID button for the testimonial you want to "
+#~ "edit, make your changes and Save Testimonial"
+#~ msgstr ""
+#~ "Um eine Beurteilung zu bearbeiten, klicken Sie den ID-Knopf der "
+#~ "gewünschten Beurteilung, machen Ihre Änderungen und spiechern die "
+#~ "Beurteilung"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If the Approved checkbox is not selected, the testimonial will not be "
+#~ "displayed."
+#~ msgstr ""
+#~ "Wenn die Freigabe nicht gesetzt ist, wird die Beurteilung nicht angezeigt."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Enter a Order number, and you can optionally display lowest order number "
+#~ "first."
+#~ msgstr ""
+#~ "Wenn Sie eine Sortiernummer eingeben, können Sie optional aufsteigend "
+#~ "sortieren."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Enter a Group name and you can optionally display only the grouped "
+#~ "testimonials."
+#~ msgstr ""
+#~ "Geben Sie einen Gruppennamen ein und Sie können nur die gruppierten "
+#~ "Beurteilungen anzeigen lassen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "A Gravatar will be shown if the e-mail was set up for a gravatar, and the "
+#~ "photo url input is empty."
+#~ msgstr ""
+#~ "Ein Gravatar wird angezeigt, wenn die Email für einen Gravatar "
+#~ "eingerichtet wurde und die Foto URL Eingabe leer ist."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you are using gravatars but do not want to display a particular author "
+#~ "gravatar, delete the author email."
+#~ msgstr ""
+#~ "Wenn sie Gravatars verwenden, aber keinen bestimmten Autor-Gravatar "
+#~ "anzeigen wollen, löschen Sie die Autor-Email."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you want to upload a photo instead of using a gravatar, click the "
+#~ "Upload Image button"
+#~ msgstr ""
+#~ "Wenn Sie anstatt eines Gravatars lieber ein Foto hochladen möchten, "
+#~ "klicken Sie den Bild hochladen Knopf"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you want add or change a rating, select the Review Rating dropdon list."
+#~ msgstr ""
+#~ "Zum Hinzufügen oder Ändern einer Bewertung aus der Bewertungsliste "
+#~ "wählen. "
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "In the admin panel testimonials are displayed by most recent date first."
+#~ msgstr ""
+#~ "In der Admin-Panel Zeugnisse werden von den meisten neueren Datums zuerst "
+#~ "angezeigt."
+
+# @ testimonial-basics
+#~ msgid "Each testimonial is assigned an ID number which can not be changed."
+#~ msgstr ""
+#~ "Jeder Beurteilung ist eine ID zugeordnet, die nicht geändert werden kann."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "To bulk delete testimonials select them and click the Bulk Delete button."
+#~ msgstr ""
+#~ "Um Groß löschen Zeugnisse markieren Sie diese und klicken Sie auf die "
+#~ "Schaltfläche Löschen Masse."
+
+#~ msgid "Be careful when you bulk delete, there is no second chance."
+#~ msgstr ""
+#~ "Seien Sie vorsichtig, wenn Sie Groß zu löschen, gibt es keine zweite "
+#~ "Chance."
+
+# @ testimonial-basics
+#~ msgid "Detailed User Documentation"
+#~ msgstr "Detaillierte Benutzer Dokumentation"
+
+# @ testimonial-basics
+#~ msgid "Detailed user documentation is available at the plugin site."
+#~ msgstr ""
+#~ "Eine detaillierte Benutzerdokumentation ist auf der Plugin-Seite "
+#~ "verfügbar."
+
+# @ testimonial-basics
+#~ msgid "Edit Testimonials Help"
+#~ msgstr "Bearbeite Testimonials Hilfe"
+
+# @ testimonial-basics
+#~ msgid "General"
+#~ msgstr "Allgemein"
+
+# @ testimonial-basics
+# @ blogBox
+#~ msgid "Input Forms"
+#~ msgstr "Eingabemaske"
+
+# @ testimonial-basics
+#~ msgid "Content Display"
+#~ msgstr "Inhalt anzeigen"
+
+# @ testimonial-basics
+# @ blogBox
+#~ msgid "Widget Display"
+#~ msgstr "Widget Anzeige"
+
+# @ testimonial-basics
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+# @ testimonial-basics
+#~ msgid "General Options"
+#~ msgstr "Allgemeine Optionen"
+
+# @ testimonial-basics
+#~ msgid "Administrator : only logged in administrators can edit testimonials."
+#~ msgstr ""
+#~ "Administrator: nur angemeldete Administratoren können Beurteilungen "
+#~ "bearbeiten."
+
+# @ testimonial-basics
+#~ msgid "Editor : logged in Administrators or Editors can edit testimonials."
+#~ msgstr ""
+#~ "Editor/Redakteur: angemeldete Adminstratoren oder Editore/Redakteure "
+#~ "können Beurteilungen bearbeiten."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "An email is sent to this address (or admin email if left blank) to notify "
+#~ "that a testimonial has been submitted."
+#~ msgstr ""
+#~ "An diese Adresse wird eine Info-Email geschickt (oder Admin-Emailadresse "
+#~ "falls leer), wenn eine Beurteilung abgegeben wurde."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Select this and the user will have the option of submitting a rating "
+#~ "using a five star rating system."
+#~ msgstr ""
+#~ "Wenn dies ausgewählt ist, hat der Anwender die Option eine Bewertung in "
+#~ "einer 5 Sterne-Bewertung abzugeben."
+
+#~ msgid ""
+#~ "Select this option and a CSS system is used for the 5 star rating system "
+#~ "instead of jQuery."
+#~ msgstr ""
+#~ "Wählen Sie diese Option, und eine CSS-System ist für die 5-Sterne-Rating-"
+#~ "System anstelle von jQuery verwendet."
+
+#~ msgid "Pick the color you want. Only for the CSS System."
+#~ msgstr "Wählen Sie die gewünschte Farbe. Nur für das CSS-System."
+
+#~ msgid "Shadow color for css stars"
+#~ msgstr "Schattenfarbe für css Sternen"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Uncheck this box to disable the script, if you are not using rotating "
+#~ "testimonials."
+#~ msgstr ""
+#~ "Demarkieren Sie diese Box um das Skript zu deaktivieren, wenn Sie keine "
+#~ "rotierenden Beurteilungen verwenden."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "This option may come in handy if you are troubleshooting jQuery problems."
+#~ msgstr ""
+#~ "Diese Option könnte hilfreich sein, wenn Sie jQuery Probleme bearbeiten."
+
+# @ testimonial-basics
+#~ msgid "Schema Options"
+#~ msgstr "Schema Optionen"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you choose to use schema markup fill out the information below even if "
+#~ "you choose not to display some items."
+#~ msgstr ""
+#~ "Wenn Sie sich dafür entscheiden Schema Markup zu verwenden, füllen Sie "
+#~ "die nachfolgenden Informationen aus, auch wenn Sie keine Daten anzeigen "
+#~ "lassen wollen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "The reason is that the information is still included in meta tags to help "
+#~ "Google."
+#~ msgstr ""
+#~ "Der Grund ist, dass die Information weiterhin in Meta-Tags eingebunden "
+#~ "ist, um Google zu unterstützen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Your company name will appear at the top of the page if you choose to "
+#~ "display it."
+#~ msgstr ""
+#~ "Ihr Unternehmensname erscheint am oberen Rand der Seite, wenn Sie diese "
+#~ "Anzeige wählen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Your company website address will appear at the top of the page if you "
+#~ "choose to display it."
+#~ msgstr ""
+#~ "Ihr Unternehmensname erscheint am oberen Rand der Seite, wenn Sie diese "
+#~ "Anzeige wählen."
+
+# @ testimonial-basics
+#~ msgid "Display your company name and website at the top of the page."
+#~ msgstr ""
+#~ "Lassen Sie Ihren Unternehmensname und Ihre Website am oberen Rand "
+#~ "anzeigen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you choose to display a group of testimonials then that group is "
+#~ "summarized."
+#~ msgstr ""
+#~ "Wenn Sie sich dafür entscheiden eine Gruppe von Beurteilungen anzuzeigen, "
+#~ "werden diese zusammengefasst."
+
+# @ testimonial-basics
+#~ msgid "Otherwise the summary is for all the testimonials on your site."
+#~ msgstr ""
+#~ "Andernfalls ist die Zusammnfassung für alle Beurteilungen Ihrer Website."
+
+# @ testimonial-basics
+#~ msgid "You can choose to only display the summary if you want."
+#~ msgstr "Wenn Sie können auch nur die Zusammnfassung anzeigen lassen."
+
+# @ testimonial-basics
+#~ msgid "Group Aggregate Review Name"
+#~ msgstr "Gruppen Zusammenfassungs Beurteilungs Name"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you have grouped the testimonials you can use the Group name you have "
+#~ "set up for a summary title."
+#~ msgstr ""
+#~ "Wenn Sie Beurteilungen gruppiert haben, können Sie den Gruppennamen als "
+#~ "Titel der Zusammenfassung verwenden."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "You can specify a custom name if you do not want to use the Group name."
+#~ msgstr ""
+#~ "Sie können einen eigenen Namen vergeben, wenn Sie den Gruppennamen nicht "
+#~ "verwenden wollen."
+
+# @ testimonial-basics
+#~ msgid "If you want to use the Group name then leave this blank."
+#~ msgstr "Wenn Sie den Gruppennamen verwenden wollen - bitte leer lassen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you do not want to use a name at all then leave the checkbox unchecked "
+#~ "and this section blank."
+#~ msgstr ""
+#~ "Wenn Sie überhaupt keinen Namen verwenden wollen, lassen Sie die Checkbox "
+#~ "und diesen Bereich leer."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Check this to use the Group name you have set up for the testimonial "
+#~ "title."
+#~ msgstr ""
+#~ "Markiere hier, um den Gruppennamen den Sie für Ihren Beurteilungstitel "
+#~ "gewählt haben zu verwenden."
+
+# @ testimonial-basics
+#~ msgid "General Input Options"
+#~ msgstr "Allgemeine Eingabe Optionen"
+
+# @ testimonial-basics
+#~ msgid "You can check this box to have testimonials automatically approved."
+#~ msgstr ""
+#~ "Sie können durch Setzen dieser Option Beurteilungen automatisch freigeben."
+
+# @ testimonial-basics
+#~ msgid "CAUTION: Not recommended so use at your own risk."
+#~ msgstr "VORSICHT: Nicht empfohlen - Verwendung auf eigene Gefahr."
+
+# @ testimonial-basics
+#~ msgid "You can include a black and white captcha on the input forms."
+#~ msgstr "Sie können ein scharz-weiß Captcha in der Eingabemaske verwenden."
+
+# @ testimonial-basics
+#~ msgid "If for any reason the Captcha is not working, disable it here."
+#~ msgstr ""
+#~ "Wenn aus irgendeinem Grund das Captcha nicht funktioniert, kann es hier "
+#~ "deaktiviert werden."
+
+# @ testimonial-basics
+#~ msgid "Select this to use a color captcha option."
+#~ msgstr "auswählen um eine Farb-Captcha Option zu verwenden."
+
+# @ testimonial-basics
+#~ msgid "If the black and white captcha is not working, try this one."
+#~ msgstr ""
+#~ "Wenn das schwarz-weiß Captcha nicht funktioniert, versuchen Sie dieses."
+
+# @ testimonial-basics
+#~ msgid "Select and the website input will not be used."
+#~ msgstr ""
+#~ "Wenn Sie dies wählen, wird die Erfassung der Website nicht verwendet."
+
+#~ msgid "Require Website in input form"
+#~ msgstr "Website im Eingabeformular benötigen"
+
+#~ msgid ""
+#~ "If Website is included and this checkbox is selected, the Website input "
+#~ "box must be completed."
+#~ msgstr ""
+#~ "Wenn Website enthalten ist, und dieses Kontrollkästchen aktiviert ist, "
+#~ "muss das Website-Eingabefeld ausgefüllt werden."
+
+# @ testimonial-basics
+#~ msgid "Select and the location input will not be used."
+#~ msgstr "Wenn Sie dies wählen, wird die Erfassung des Ortes nicht verwendet."
+
+#~ msgid "Require Location in input form"
+#~ msgstr "Lage im Eingabeformular benötigen"
+
+#~ msgid ""
+#~ "If Location is included and this checkbox is selected, the Location input "
+#~ "box must be completed."
+#~ msgstr ""
+#~ "Wenn Lage enthalten ist und dieses Kontrollkästchen aktiviert ist, muss "
+#~ "das Lage-Eingabefeld ausgefüllt werden."
+
+# @ testimonial-basics
+#~ msgid "Content and Widget Form Input Options"
+#~ msgstr "Seiten und Widget Eingabe Optionen"
+
+# @ testimonial-basics
+#~ msgid "Check this if you want to add a note."
+#~ msgstr "Dies markieren, wenn Sie einen Text ergänzen möchten."
+
+# @ testimonial-basics
+#~ msgid "Add the note here if you do not want to use the default."
+#~ msgstr ""
+#~ "Schreiben Sie hier Ihren text, wenn Sie nicht die Vorgabe verwenden "
+#~ "möchten."
+
+# @ testimonial-basics
+#~ msgid "Keep the text you enter to a reasonable length or it may look funny."
+#~ msgstr ""
+#~ "Verfassen Sie den Text in einer vernünftigen Länge sonst könnte es "
+#~ "merkwürdig aussehen. "
+
+#~ msgid ""
+#~ "Check to have a popup javascript messages for errors or thank you, to be "
+#~ "displayed after the testimonial was submitted."
+#~ msgstr ""
+#~ "Überprüfung, dass ein Popup Javascript-Nachrichten für Fehler oder Danke, "
+#~ "angezeigt werden, nachdem das Zeugnis eingereicht wurde."
+
+#~ msgid ""
+#~ "In some WordPress sites the green colored thank you may not be displayed."
+#~ msgstr ""
+#~ "In einigen Wordpress-Seiten danken, die grün gefärbt können nicht "
+#~ "angezeigt werden."
+
+#~ msgid "This method provides an alternative."
+#~ msgstr "Dieses Verfahren stellt eine Alternative."
+
+# @ testimonial-basics
+#~ msgid "Base Font Size"
+#~ msgstr "Standard Schriftgröße"
+
+# @ testimonial-basics
+#~ msgid "This option allows you to change the font size."
+#~ msgstr "Diese Option ermöglicht die Änderung der Schriftgröße."
+
+# @ testimonial-basics
+#~ msgid "It should work for most themes but CSS Specifity can cause problems."
+#~ msgstr ""
+#~ "Es sollte mit den meisten Themes funktionieren, dennoch könnten CSS "
+#~ "Besonderheiten Probleme verursachen."
+
+# @ testimonial-basics
+#~ msgid "Do not worry about what an em is just try one and see what happens."
+#~ msgstr ""
+#~ "Fragen Sie nicht was ein em ist - probieren Sie es aus und sehen Sie was "
+#~ "passiert."
+
+# @ testimonial-basics
+#~ msgid "Select this to display a title above the input form."
+#~ msgstr "Wählen Sie dies um einen Titel über Ihrer Eingabemaske anzuzeigen."
+
+# @ testimonial-basics
+#~ msgid "Put the title you want to use here."
+#~ msgstr "Schreiben Sie hier Ihren Titel."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Note that for widgets the title is entered when you place the widget."
+#~ msgstr ""
+#~ "Beachten Sie, dass der Titel für Widgets bei der Plazierung des Widgets "
+#~ "erfolgt."
+
+# @ testimonial-basics
+#~ msgid "Optionally include an html allowed strip on input forms."
+#~ msgstr ""
+#~ "Lassen Sie optional einen HTML 'erlaubt' Text mit Ihren Eingabemasken "
+#~ "anzeigen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "This strip shows the user what html tags will be allowed in the "
+#~ "testimonial."
+#~ msgstr ""
+#~ "Der Text informiert den Benutzer welche HTML-Tags in der Beurteilung "
+#~ "erlaubt sind. "
+
+#~ msgid ""
+#~ "Visitors can use this link to set up a gravatar that will be included in "
+#~ "the testimonial."
+#~ msgstr ""
+#~ "Besucher können diesen Link verwenden, um ein Gravatar einrichten, die in "
+#~ "das Zeugnis aufgenommen werden."
+
+#~ msgid ""
+#~ "only for the input widget, labels can be displayed inside or above the "
+#~ "input boxes"
+#~ msgstr ""
+#~ "nur für die Eingabe Widget können Etiketten innerhalb oder oberhalb der "
+#~ "Eingabefelder angezeigt werden"
+
+# @ testimonial-basics
+#~ msgid "Labels"
+#~ msgstr "Kennzeichen"
+
+# @ testimonial-basics
+#~ msgid "You can change any of the labels in the input forms."
+#~ msgstr ""
+#~ "Sie können alle Kennzeichen (Feldbezeichnungen) in Ihren Eingabemasken "
+#~ "ändern."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "This feature will come in handy for users that want to use a different "
+#~ "language."
+#~ msgstr ""
+#~ "Dieses Feature ist für die Anwender die eine andere Sprache verwenden "
+#~ "möchten."
+
+# @ testimonial-basics
+#~ msgid "Content Display General Options"
+#~ msgstr "Allgemeine Optionen für die Anzeige des Inhalts"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "The Meta referred to is the rating, author, date, location, and website."
+#~ msgstr "Die META bezieht sich auf Bewertung, Autor, Datum, Ort und Website"
+
+#~ msgid "You can place it at the top or bottom or on the side."
+#~ msgstr "Sie können es oberhalb oder unterhalb platzieren."
+
+# @ testimonial-basics
+#~ msgid "You can choose a font from the dropdown list."
+#~ msgstr "Wählen Sie eine Schriftart aus der Dropdown-Liste"
+
+# @ testimonial-basics
+#~ msgid "Pagination"
+#~ msgstr "Seitenumbruch"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "You can use pagination when you display all testimonials or all "
+#~ "testimonials in a Group."
+#~ msgstr ""
+#~ "Sie können den Seitenumbruch verwenden, wenn Sie alle Beurteilungen oder "
+#~ "alle Beurteilungen einer Gruppe anzeigen lassen."
+
+# @ testimonial-basics
+#~ msgid "In any other display there is really no reason to use pagination."
+#~ msgstr ""
+#~ "In allen anderen Darstellungen gibt es keinen Grund für die Verwendung "
+#~ "des Seitenumbruchs."
+
+# @ testimonial-basics
+#~ msgid "You can choose to display 3, 5 or 10 per page."
+#~ msgstr "Sie können wählen um 3, 5 oder 10 pro Seite anzuzeigen."
+
+# @ testimonial-basics
+#~ msgid "Excerpts"
+#~ msgstr "Auszüge"
+
+#~ msgid ""
+#~ "You can use excerpts with the specified number of words to display your "
+#~ "testimonials."
+#~ msgstr ""
+#~ "Sie können Auszüge mit vorgegebener Buchstabenanzahl verwenden um Ihre "
+#~ "Beurteilungen anzuzeigen."
+
+#~ msgid ""
+#~ "When excerpts are selected, the testimonial is limited to the number of "
+#~ "words, extended to end of sentence or break in sentence."
+#~ msgstr ""
+#~ "Wenn Auszüge ausgewählt werden, beschränkt sich das Zeugnis auf die "
+#~ "Anzahl der Wörter, bis Ende der Satz oder eine Pause im Satz verlängert."
+
+#~ msgid ""
+#~ "A visitor can then click a ...more link to display a pop-up of the entire "
+#~ "testimonial."
+#~ msgstr ""
+#~ "Der Betrachter kann einen ...mehr Link anklicken, um ein Pop-Up Fenster "
+#~ "mit der gesamten Beurteilung anzeigen zu lassen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you wish to show the Group name or a Custom name for your testimonial, "
+#~ "select this option."
+#~ msgstr ""
+#~ "Wenn Sie den Gruppennamen oder selbst gewählten Namen für Ihre "
+#~ "Beurteilung anzeigen lassen wollen - wählen Sie diese Option."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Then make sure the Custom Individual Review Name is filled out or Group "
+#~ "Individual Review Name is selected - in the General Tab."
+#~ msgstr ""
+#~ "Stellen Sie sicher, dass der selbst gewählte Beurteilungsname ausgefüllt "
+#~ "ist oder selbst gewählte Gruppenname ausgewählt ist - auf der Seite "
+#~ "\"Allgemein\""
+
+# @ testimonial-basics
+#~ msgid "Meta Display Options"
+#~ msgstr "Meta Anzeige Optionen"
+
+# @ testimonial-basics
+#~ msgid "The author is displayed as a minimum."
+#~ msgstr "Es wird mindestens der Autor angezeigt."
+
+# @ testimonial-basics
+#~ msgid "You can then optionally display website, location, and date."
+#~ msgstr "Sie können dann Website, Ort und Datum optional anzeigen lassen."
+
+# @ testimonial-basics
+#~ msgid "Gravatars"
+#~ msgstr "Gravatars"
+
+# @ testimonial-basics
+#~ msgid "Select this to display Gravatars."
+#~ msgstr "Wählen Sie dies um Gravatare anzuzeigen."
+
+# @ testimonial-basics
+#~ msgid "Uploaded photos are displayed first."
+#~ msgstr "Heraufgeladene Fotos werden zuerst angezeigt."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If an uploaded photo does not exist, the plugin will display a gravatar, "
+#~ "if one exists."
+#~ msgstr ""
+#~ "Wenn ein heraufgeladenes Foto nicht existiert, zeigt das Plugin einen "
+#~ "Gravatar, wenn einer existiert."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If gravatar does not exist, you can optionally display a substitute "
+#~ "character."
+#~ msgstr ""
+#~ "Wenn der Gravatar nicht existiert, können Sie einen Platzhalter anzeigen "
+#~ "lassen."
+
+#~ msgid ""
+#~ "You can also select the gravatar size and if the gravatars should be "
+#~ "round."
+#~ msgstr ""
+#~ "Sie können auch die Gravatar-Größe auswählen, und wenn die Gravatars "
+#~ "Runde werden soll."
+
+# @ testimonial-basics
+#~ msgid "Click this and italics will be used for the testimonial."
+#~ msgstr "Wenn Sie dies auswählen wird Ihre Beurteilung kursiv dargestellt."
+
+# @ testimonial-basics
+#~ msgid "Content Display Rotator Options"
+#~ msgstr "Anzeige Rotierer Optionen"
+
+# @ testimonial-basics
+#~ msgid "Select the time in mili-seconds 1000 ms = 1 sec."
+#~ msgstr "geben Sie die zeit in Millisekunden an 1000 ms = 1 sek."
+
+# @ testimonial-basics
+#~ msgid "Selects a minimum height for all testimonials."
+#~ msgstr "Bestimmt die Mindesthöhe für alle Beurteilungen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Use this option to prevent the screen from growing or shrinking to "
+#~ "accomodate each testimonials."
+#~ msgstr ""
+#~ "verwenden Sie diese Option um eine Vergrößerung oder Verkleinernung der "
+#~ "Bildschirmanzeige aufgrund der Anpassung an die Beurteilungen zu "
+#~ "verhindern."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Tip: use excerpts and make sure the length keeps testimonials within the "
+#~ "minimum height prescribed."
+#~ msgstr ""
+#~ "Tipp: verwenden Sie Auszüge und stellen Sie sicher, dass die Länge des "
+#~ "Beurteilungs-Auszugs in die vorgegebene Mindesthöhe passt."
+
+# @ testimonial-basics
+#~ msgid "Select the transition effect for the slider."
+#~ msgstr "Wählen Sie den Übergangseffekt für den \"Slider\"."
+
+# @ testimonial-basics
+#~ msgid "Content Display Custom Options"
+#~ msgstr "Optionen für Anzeigeanpassung"
+
+# @ testimonial-basics
+#~ msgid "To use formatted display select this box."
+#~ msgstr "Wählen Sie dies um eine formatierte Anzeige zu verwenden."
+
+#~ msgid ""
+#~ "If the Formatted Display box is checked a color style is applied to the "
+#~ "testimonials, which can be customized."
+#~ msgstr ""
+#~ "Ist die Anzeige formatiert-Kästchen angekreuzt ist eine Farbe die "
+#~ "Testimonials Formatvorlage die angepasst werden können."
+
+# @ testimonial-basics
+#~ msgid "Colors"
+#~ msgstr "Farben"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Enter any hexdec color number preceded by a # mark or use the color picker"
+#~ msgstr ""
+#~ "Geben Sie jede hexadezimale Farbe mit vorangstelltem # Zeichen an oder "
+#~ "benutzen Sie den Farben-Picker"
+
+# @ testimonial-basics
+#~ msgid "Select the color input cell you want to change."
+#~ msgstr "Wählen Sie die Farb-Eingabezelle die Sie ändern möchten."
+
+# @ testimonial-basics
+#~ msgid "A color box appears with a saturation bar on the right."
+#~ msgstr ""
+#~ "Eine Farbanzeige mit einer Sättigungsauswahl auf der rechten Seite "
+#~ "erscheint."
+
+# @ testimonial-basics
+#~ msgid "Drag the dot on the color box to select the color."
+#~ msgstr "Ziehen Sie den Punkt auf die Farb-Auswahl um eine Farbe zu wählen."
+
+# @ testimonial-basics
+#~ msgid "Change the saturation with the sliding bar on the right."
+#~ msgstr ""
+#~ "Ändern Sie die Sättigung mit dem Schieberegler auf der rechten Seite."
+
+# @ testimonial-basics
+#~ msgid "Click the Current Color Button when you are done."
+#~ msgstr "Klicken Sie den \"Aktuelle Farbe\" Knopf wenn Sie fertig sind."
+
+# @ testimonial-basics
+#~ msgid "Widget Display Options"
+#~ msgstr "Optionen für Widget-Anzeige"
+
+#~ msgid ""
+#~ "There are six layout options for the widget allowing flexibility for "
+#~ "different themes. "
+#~ msgstr ""
+#~ "Es gibt sechs Layoutoptionen für das Widget ermöglicht Flexibilität für "
+#~ "verschiedene Themen."
+
+#~ msgid "Try different ones, and ensure they work on all devices."
+#~ msgstr ""
+#~ "Verschiedene Versuche, und stellen Sie sicher, dass sie auf allen Geräten "
+#~ "funktionieren."
+
+# @ testimonial-basics
+#~ msgid "Widget Display Rotator Options"
+#~ msgstr "Rotierer Optionen für Widget-Anzeige"
+
+# @ testimonial-basics
+#~ msgid "Widget Display Custom Options"
+#~ msgstr "Widget Anzeigeanpassungs Optionen"
+
+#~ msgid "Why is pagination not working?"
+#~ msgstr "Warum ist die Paginierung nicht?"
+
+#~ msgid ""
+#~ "Most likely it is because you have set them to display by=\"random\"."
+#~ msgstr ""
+#~ "Wahrscheinlich ist es, weil Sie sie eingestellt haben, dass durch = "
+#~ "\"random\" anzeigen."
+
+#~ msgid "Set them to display by=\"date\" or by=\"order\"."
+#~ msgstr "Stellen Sie sie durch = \"Datum\" oder = \"Ordnung\" anzuzeigen."
+
+#~ msgid "Pagination does not work for random selections."
+#~ msgstr "Paginierung nicht für zufällige Auswahl zu arbeiten."
+
+# @ testimonial-basics
+#~ msgid "Why are users not allowed to upload photos?"
+#~ msgstr "Warum ist es Benutzern nicht erlaubt Fotos heraufzuladen?"
+
+# @ testimonial-basics
+#~ msgid "Users are not allowed to upload photos for security reasons."
+#~ msgstr "Benutzer dürfen aus Sicherheitsgründen keine Fotos heraufladen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Allowing anyone who is not logged in to upload files to your WordPress "
+#~ "site is a very risky practice."
+#~ msgstr ""
+#~ "Nicht eingeloggten Nutzern das heraufladen von Dateien in Ihr WordPress  "
+#~ "zu erlauben, ist sehr riskant.  "
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "The Gravatar system is very simple to register and the safe way to get "
+#~ "user photos in their testimonials."
+#~ msgstr ""
+#~ "Das Gravatar System kann einfach registriert werden und der sichere Weg "
+#~ "um Anwender-Fotos in Ihre Beurteilungen zu bekommen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "The Admin or Editor can log in and upload photos from the Edit "
+#~ "Testimonials Panel."
+#~ msgstr ""
+#~ "Der Admin oder Editor/Redakteur kann sich anmelden und Fotos vom "
+#~ "Bearbeitungsbereich hochladen."
+
+# @ testimonial-basics
+#~ msgid "My testimonial is not displaying."
+#~ msgstr "Meine Beurteilung wird nicht angezeigt."
+
+# @ testimonial-basics
+#~ msgid "Go in to the edit testimonials panel and make sure it is approved."
+#~ msgstr ""
+#~ "Gehen Sie in den Bearbeitungsbereich und stellen Sie sicher, dass "
+#~ "freigegeben ist."
+
+#~ msgid "The widget labels in the input boxes do not disappear when selected."
+#~ msgstr "Die Widget-Kennzeichner erscheinen nach der Auswahl nicht."
+
+# @ testimonial-basics
+#~ msgid "They must be deleted."
+#~ msgstr "Müssen gelöscht werden."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "It is set up this way to keep the entry for editing in the event of a "
+#~ "submission error."
+#~ msgstr ""
+#~ "Es ist so eingestellt, dass der Eintrag im Falle eines Speicher-Fehlers "
+#~ "im Bearbeitungsmodus bleibt."
+
+# @ testimonial-basics
+#~ msgid "Show your appreciation!"
+#~ msgstr "Zeigen Sie Ihre Anerkennung!"
+
+# @ testimonial-basics
+#~ msgid "Author Site : "
+#~ msgstr "Autor Website: "
+
+# @ testimonial-basics
+#~ msgid "Plugin Site : "
+#~ msgstr "Plugin Website: "
+
+# @ testimonial-basics
+#~ msgid "I use the term Schema a bit loosley."
+#~ msgstr "Ich verwende den Begriff Schema etwas \"locker\"."
+
+# @ testimonial-basics
+#~ msgid "It refers to"
+#~ msgstr "Es bezieht sich auf"
+
+# @ testimonial-basics
+#~ msgid "which is a"
+#~ msgstr "hierbei handelt es sich um ein"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "collaboration by Google, Microsoft and Yahoo to improve the web by "
+#~ "creating a structured data markup schema supported by major search "
+#~ "engines."
+#~ msgstr ""
+#~ "gemeinsames Projekt von Google, Microsoft und Yahoo!, mit dem das Web "
+#~ "durch die Schaffung eines solchen Markup-Schemas für strukturierte Daten "
+#~ "verbessert werden soll, das von allen gängigen Suchmaschinen unterstützt "
+#~ "wird."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "On-page markup helps search engines understand the information on web "
+#~ "pages and provide richer results."
+#~ msgstr ""
+#~ "Seiten-Markup hilft Suchmaschinen dabei, die Informationen auf Webseiten "
+#~ "besser zu verstehen und somit besser auszugeben."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "A shared markup vocabulary makes it easier for webmasters to decide on a "
+#~ "markup schema and get maximum benefit for their efforts."
+#~ msgstr ""
+#~ "Ein gemeinsames Markup-Vokabular erleichtert Webmastern, sich für ein "
+#~ "Markup-Schema zu entscheiden und möglichst viele Vorteile daraus zu "
+#~ "ziehen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "You can now choose to display testimonials in a structured data format, "
+#~ "which should help search results for your site."
+#~ msgstr ""
+#~ "Sie können Beurteilungen jetzt auch im strukturierten Datenformat "
+#~ "anzeigen lassen. Dies sollte die Suchergebenisse für Ihre Website "
+#~ "verbessern."
+
+# @ testimonial-basics
+#~ msgid "Content Form Input Options"
+#~ msgstr "Eingabemasken Optionen"
+
+# @ testimonial-basics
+#~ msgid "Widget Form Input Options"
+#~ msgstr "Widget-Eingabemaske Optionen"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Content display refers to displaying your testimonials in the content "
+#~ "area of your pages and posts."
+#~ msgstr ""
+#~ "'Inhalt anzeigen' steht für die Anzeige Ihrer Beurteilungen im "
+#~ "Inhaltsbereich Ihrer Seiten und Beiträge."
+
+# @ testimonial-basics
+#~ msgid "You can display up to 5 content rotators on one page."
+#~ msgstr "Sie können bis zu 5 rotierende Anzeigen pro Seite einsetzen."
+
+# @ testimonial-basics
+#~ msgid "Widget Display General Options"
+#~ msgstr "Allgemeine Optionen für Widget-Anzeige "
+
+# @ testimonial-basics
+#~ msgid "You can display up to 5 widget rotators on one page."
+#~ msgstr "Sie können bis zu 5 Widget-Rotierer pro Seite anzeigen lassen."
+
+#~ msgid "Testimonial Basics - Backup or Restore Your Testimonials"
+#~ msgstr ""
+#~ "Testimonial-Grundlagen - sichern oder Wiederherstellen Ihrer Testimonials"
+
+#~ msgid "Backup Testimonials"
+#~ msgstr "Backup Testimonials"
+
+#~ msgid ""
+#~ "You can back up all your testimonials to an xml file, and it will be "
+#~ "downloaded to your computer."
+#~ msgstr ""
+#~ "Sie können alle Ihre Zeugnisse in einer XML-Datei sichern, und es wird "
+#~ "auf Ihren Computer heruntergeladen werden."
+
+#~ msgid "Click to backup testimonials"
+#~ msgstr "Klicken Sie auf backup-Testimonials"
+
+#~ msgid "Restore Testimonials"
+#~ msgstr "Wiederherstellen von Testimonials"
+
+#~ msgid "You can restore your testimonials from a backup xml file."
+#~ msgstr ""
+#~ "Sie können Ihre Zeugnisse aus einer Sicherung Xml-Datei wiederherstellen."
+
+#~ msgid "Maximum file size is 2MB."
+#~ msgstr "Maximale Dateigröße beträgt 2MB."
+
+#~ msgid ""
+#~ "If your backup file is too large it will have to be broken up into parts."
+#~ msgstr ""
+#~ "Wenn Ihre backup-Datei zu groß ist, haben es in Teile aufgespaltet werden."
+
+#~ msgid ""
+#~ "For example to break up your file into 2 files, use a text editor such as "
+#~ "Notepad or Notepad++."
+#~ msgstr ""
+#~ "Verwenden Sie einen Texteditor wie Editor oder Notepad++, z. B. zu "
+#~ "zerschlagen, Ihre Datei in 2 Akten."
+
+#~ msgid ""
+#~ "Make two copies of the full backup file and append _part1 and _part2 to "
+#~ "the file names."
+#~ msgstr ""
+#~ "Kopien Sie zwei der backup-Datei und hängen Sie _part1 und _part2 an den "
+#~ "Dateinamen an."
+
+#~ msgid "Remove the bottom half of the testimonials from the first file."
+#~ msgstr "Entfernen der unteren Hälfte der Referenzen aus der ersten Datei."
+
+#~ msgid "Remove the top half of the testimonials from the second file."
+#~ msgstr ""
+#~ "Entfernen Sie die obere Hälfte der Referenzen aus der zweiten Datei."
+
+#~ msgid ""
+#~ "Note that all testimonials are wrapped in &lt;testimonials&gt;&lt;/"
+#~ "testimonials&gt; tags. Do not delete these tags."
+#~ msgstr ""
+#~ "Beachten Sie, dass alle Zeugnisse in &lt; Zeugnisse &gt;&lt; "
+#~ "eingeschlossen sind / Referenzen &gt; Tags. Löschen Sie diese Tags nicht."
+
+#~ msgid ""
+#~ "Each testimonial is wrapped in &lt;testimonial&gt;&lt;/testimonial&gt; "
+#~ "tags."
+#~ msgstr ""
+#~ "Jedes Zeugnis ist &lt; Zeugnis &gt;&lt; umwickelt / Zeugnis &gt; Tags."
+
+#~ msgid ""
+#~ "To remove a testimonial delete everything between the &lt;testimonial&gt;"
+#~ "&lt;/testimonial&gt; tags, including the tags."
+#~ msgstr ""
+#~ "Ein Zeugnis um zu entfernen löschen Sie alles zwischen &lt; Testimonial "
+#~ "&gt;&lt; / Zeugnis &gt; Markierungen, einschließlich der Tags."
+
+#~ msgid "Select an xml file"
+#~ msgstr "Wählen Sie eine Xml-Datei"
+
+#~ msgid ""
+#~ "There was an error importing the logs. File type detected: '%s'. 'text/"
+#~ "xml' expected"
+#~ msgstr ""
+#~ "Es gab einen Fehler Import der Protokolle. Dateityp festgestellt: &#39;"
+#~ "%s&#39;. &quot;Text / xml&quot; erwartet"
+
+#~ msgid "File size too large (%s). Maximum 2MB"
+#~ msgstr "Dateigröße zu groß ist (% s). Maximal 2 MB"
+
+#~ msgid "Error encountered: %d"
+#~ msgstr "Fehler aufgetreten:% d"
+
+#~ msgid "1 testimonial successfully imported"
+#~ msgstr "1 Zeugnis erfolgreich importiert"
+
+#~ msgid "%d testimonials successfully imported"
+#~ msgstr "%d Referenzen erfolgreich importiert"
+
+#~ msgid " No testimonials were imported - must be a problem somewhere :("
+#~ msgstr ""
+#~ "Keine Testimonials wurden importiert - irgendwo muss sein ein Problem :("
+
+# @ testimonial-basics
+#~ msgid "Display Testimonials."
+#~ msgstr "Beurteilungen anzeigen."
+
+# @ testimonial-basics
+#~ msgid "Testimonial Display Widget"
+#~ msgstr "Beurteilung Widget-Anzeige"
+
+#~ msgid "Title : "
+#~ msgstr "﻿Titel :"
+
+#~ msgid "Number : "
+#~ msgstr "Zahl :"
+
+#~ msgid "By : "
+#~ msgstr "﻿Beitrag von:"
+
+#~ msgid "IDs : "
+#~ msgstr "IDs:"
+
+#~ msgid "Rotate : "
+#~ msgstr "Drehen:"
+
+#~ msgid "Layout : "
+#~ msgstr "Layout"
+
+#~ msgid "Use Schema : "
+#~ msgstr "Benutze Markup-Schema"
+
+# @ testimonial-basics
+#~ msgid "Allow a user to input a testimonial."
+#~ msgstr "Erlauben Sie Anwendern eine Beurteilung abzugeben."
+
+# @ testimonial-basics
+#~ msgid "Testimonial Input Widget"
+#~ msgstr "Beurteilungs Eingabe-Widget"
+
+#~ msgid "Title :"
+#~ msgstr "Titel:"
+
+# @ testimonial-basics
+#~ msgid "Group :"
+#~ msgstr "Gruppen:"
+
+#~ msgid "Form No :"
+#~ msgstr "Kein Formular:"
+
+# @ testimonial-basics
+#~ msgid "Author required"
+#~ msgstr "Autor erforderlich"
+
+# @ testimonial-basics
+#~ msgid "Valid email required "
+#~ msgstr "Gültige E-Mail erforderlich"
+
+# @ testimonial-basics
+#~ msgid "Website required "
+#~ msgstr "Webseite erforderlich"
+
+# @ testimonial-basics
+#~ msgid "Location required "
+#~ msgstr "Ort erforderlich"
+
+# @ testimonial-basics
+#~ msgid "Testimonial required"
+#~ msgstr "Testimonial erforderlich"
+
+# @ testimonial-basics
+#~ msgid "Captcha invalid"
+#~ msgstr "Captcha ungültig"
+
+# @ testimonial-basics
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+# @ testimonial-basics
+#~ msgid "Add a Photo? "
+#~ msgstr "Foto hinzufügen? "
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If the Formatted Display box is checked a 3D style is applied to the "
+#~ "testimonials, which can be customized."
+#~ msgstr ""
+#~ "Wenn \"Formatierte Anzeige\" gewählt wurde, wird der Beurteilung ein "
+#~ "anpassbarer 3D Style zugeordnet."
+
+# @ testimonial-basics
+#~ msgid "Excerpt length in characters"
+#~ msgstr "Länge des Auszugs in Buchstaben "
+
+# @ testimonial-basics
+#~ msgid "default: 400"
+#~ msgstr "Voreinstellung: 400"
+
+# @ testimonial-basics
+#~ msgid "default: Verdana"
+#~ msgstr "Voreinstellung: Verdana"
+
+# @ testimonial-basics
+#~ msgid "Background Wrap Color"
+#~ msgstr "Hintergrundfarbe"
+
+# @ testimonial-basics
+#~ msgid "Testimonial Box Color"
+#~ msgstr "Farbe des Beurteilungsfensters"
+
+# @ testimonial-basics
+#~ msgid "default: #DBDBDB"
+#~ msgstr "Voreinstellung: #DBDBDB"
+
+# @ testimonial-basics
+#~ msgid "default: 250"
+#~ msgstr "Voreinstellung: 250"
+
+# @ testimonial-basics
+#~ msgid "Enter Captcha"
+#~ msgstr "Captcha eingeben"
+
+# @ testimonial-basics
+#~ msgid "ID"
+#~ msgstr "ID"
+
+# @ testimonial-basics
+#~ msgid "Photo"
+#~ msgstr "Foto"
+
+# @ testimonial-basics
+#~ msgid "Author Information"
+#~ msgstr "Information zum Autor"
+
+# @ testimonial-basics
+#~ msgid "Testimonial"
+#~ msgstr "Beurteilung"
+
+#~ msgid "Use popup thank you"
+#~ msgstr "Verwenden Sie Popup danke"
+
+#~ msgid ""
+#~ "Check to have a popup javascript message displayed after the testimonial "
+#~ "was submitted."
+#~ msgstr ""
+#~ "Überprüfen Sie, um ein Popup javascript Nachricht nach dem Zeugnis "
+#~ "angezeigt wurde, vorgelegt haben."
+
+# @ testimonial-basics
+#~ msgid "You can place it at the top or bottom."
+#~ msgstr "Sie können es oberhalb oder unterhalb platzieren."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "You can use excerpts with the specified character length to display your "
+#~ "testimonials."
+#~ msgstr ""
+#~ "Sie können Auszüge mit vorgegebener Buchstabenanzahl verwenden um Ihre "
+#~ "Beurteilungen anzuzeigen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "When excerpts are selected, the testimonial is limited to the characters "
+#~ "input."
+#~ msgstr ""
+#~ "Wenn Auszüge verwendet wird, werden die Beurteilungen auf die Anzahl der "
+#~ "angegebenen Zeichen begrenzt."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "A user can then click a ...more link to display a pop-up of the entire "
+#~ "testimonial."
+#~ msgstr ""
+#~ "Der Betrachter kann einen ...mehr Link anklicken, um ein Pop-Up Fenster "
+#~ "mit der gesamten Beurteilung anzeigen zu lassen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "There are very few differences between the Content Display Options and "
+#~ "the Widget Display Options."
+#~ msgstr ""
+#~ "Es sind nur geringe Unterschiede zwischen den Seiten- und den Widget-"
+#~ "Anzeige Optionen."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "Pagination does not apply for widgets, and there is no testimonial wrap "
+#~ "for formatting."
+#~ msgstr ""
+#~ "Seitenumbruch gilt nicht in Widgets und es gibt keine Umbruchfunktion zur "
+#~ "Formatierung."
+
+# @ testimonial-basics
+#~ msgid "The user is referred to the Content Display section for help."
+#~ msgstr ""
+#~ "Der Anwender wird für Hilfestellungen auf den Seiten-Anzeige Abschnitt "
+#~ "verwiesen."
+
+# @ testimonial-basics
+#~ msgid "Why are testimonials not automatically approved?"
+#~ msgstr "Warum werden beurteilungen nicht automatisch freigegeben?"
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "If you want testimonials on your site then you are concerned about what "
+#~ "clients think of your business."
+#~ msgstr ""
+#~ "Wenn Sie Beurteilungen auf Ihrer Website haben wollen, dann ist es Ihnen "
+#~ "wichtig was Ihre Kunden über Ihre Leistung denken."
+
+# @ testimonial-basics
+#~ msgid ""
+#~ "So it is probably a good idea to check the testimonial first and then "
+#~ "approve it."
+#~ msgstr ""
+#~ "Es ist vermutlich eine gute Idee die Beurteilungen erst zu prüfen, bevor "
+#~ "man sie frei gibt. "
+
+# @ testimonial-basics
+#~ msgid "The widget labels do not disappear when selected."
+#~ msgstr "Die Widget-Kennzeichner erscheinen nach der Auswahl nicht."

@@ -1,0 +1,277 @@
+dt {
+	float:left;
+	width:100%;
+	cursor:pointer;
+	text-align:center;
+}
+
+dt:hover {
+	
+}
+
+dd.bst-social-button {
+	text-align:center !important;
+  margin-left:0px !important;
+	float:left !important;
+	width:100% !important;
+}
+
+#bst-social-button {
+	margin: 0px auto;
+	display:block;
+	height:96px;
+	width:96px;
+	text-indent:-9999px;
+}
+
+.bst-social-button_closed { 
+  background:url(../img/share-button-r-96.png) no-repeat;
+  min-height:96px;
+}
+
+.bst-social-button_open { 
+  background:url(../img/share-button-g-96.png) no-repeat; 
+  min-height:96px;
+}
+
+div.bst_social_spacer {
+height:5px;
+}
+
+div.bst_social_spacer-title-top {
+height:10px;
+}
+
+div.bst_social_spacer-top {
+height:30px;
+}
+
+div.bst_social_spacer-buttons-top {
+height:15px;
+}
+
+div.bst_social_spacer-buttons-bottom {
+height:20px;
+}
+
+div.bst_social_spacer-footer {
+height:110px;
+}
+
+/* Facebook Button Sidebar */ 
+div.sw_facebook {
+width:136px;
+height:34px;
+border:none;
+background: url('../img/style1/facebook_color_136x34.png');
+margin:0 auto;
+}
+
+div.sw_facebook:hover {
+background: url('../img/style1/facebook_hover_136x34.png'); 
+}
+
+div.sw_facebook a,
+div.sw_twitter a,
+div.sw_gplus a,
+div.sw_pin a,
+div.sw_in a,
+div.sw_xing a,
+div.sw_mail a {
+display:block;
+height:100%;
+color:#ff0000;
+}
+
+/* Twitter Button Sidebar */ 
+div.sw_twitter {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/twitter_color_136x34.png);
+margin:0px auto;
+}
+
+div.sw_twitter:hover {
+background: url(../img/style1/twitter_hover_136x34.png);
+}
+
+/* G+ Button Sidebar */ 
+div.sw_gplus {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/gplus_color_136x34.png);
+margin:0 auto;
+}
+
+div.sw_gplus:hover {
+background: url(../img/style1/gplus_hover_136x34.png); 
+}
+
+/* Pinterest Button Sidebar */ 
+div.sw_pin {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/pin_color_136x34.png);
+margin:0 auto;
+}
+
+div.sw_pin:hover {
+background: url(../img/style1/pin_hover_136x34.png); 
+}
+
+/* LinkedIn Button Sidebar */ 
+div.sw_in {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/in_color_136x34.png);
+margin:0 auto;
+}
+
+div.sw_in:hover {
+background: url(../img/style1/in_hover_136x34.png); 
+}
+
+/* Xing Button Sidebar */ 
+div.sw_xing {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/xing_color_136x34.png);
+margin:0 auto;
+}
+
+div.sw_xing:hover {
+background: url(../img/style1/xing_hover_136x34.png); 
+}
+
+/* Mail Button Sidebar */ 
+div.sw_mail {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/mail_color_136x34.png);
+margin:0 auto;
+}
+
+div.sw_mail:hover {
+background: url(../img/style1/mail_hover_136x34.png); 
+}
+
+div.clear {
+    clear:both;
+}
+
+
+table.bst-social {  
+width:100%;
+background:#1D325F;
+border: 0px solid #fff;
+margin: 0px;
+}
+
+
+
+td.bst-social-text-td
+{
+padding-left: 10px;
+padding-top: 3px;
+padding-right: 0px;
+padding-bottom: 3px;
+font-size:11px;
+line-height:20px;
+border: 0px solid #000;
+vertical-align:middle;
+color:#ccc;
+
+}
+
+
+td.bst-social-img-td
+{
+width:16px;
+padding-left: 7px;
+padding-top: 7px;
+padding-right: 7px;
+padding-bottom: 3px;
+border: 0px solid #000;
+vertical-align:top;
+
+}
+
+
+div.table_wrapper_bg 
+{
+border-radius:6px !important;
+-moz-border-radius:6px !important;
+-webkit-border-radius:6px !important;
+overflow: hidden;
+-webkit-box-shadow: 0 8px 6px -6px black  !important;
+-moz-box-shadow: 0 8px 6px -6px black  !important;
+box-shadow: 0 8px 6px -6px black  !important;
+}
+
+div.table_wrapper 
+{
+border-radius:6px !important;
+-moz-border-radius:6px !important;
+-webkit-border-radius:6px !important;
+overflow: hidden;
+}
+
+.bst-social-img
+{
+width:16px;
+height:16px;
+}
+
+img.attachment-bst_social_image_thumbnail
+{
+width:266px;
+height:125px;
+}
+
+
+dt.og-buttonfb {
+
+	float:left;
+	width:100%;
+	cursor:pointer;
+	text-align:right;
+
+
+}
+
+
+
+
+
+dd.og-button {
+	text-align:left !important;
+  margin-left:0px !important;
+	float:left !important;
+	width:100% !important;
+}
+
+#og-button {
+	margin: 0px auto;
+	display:block;
+	height:64px;
+	width:64px;
+	text-indent:-9999px;
+}
+
+.og-button_closed { 
+  background:url(../img/og-fb-open.png) no-repeat;
+  min-height:64px;
+}
+
+.og-button_open { 
+  background:url(../img/og-fb-close.png) no-repeat; 
+  min-height:64px;
+}
+
+

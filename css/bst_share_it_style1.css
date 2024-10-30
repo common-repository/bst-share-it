@@ -1,0 +1,104 @@
+/* Facebook Button Sidebar */ 
+div.sw_facebook {
+width:136px;
+height:34px;
+border:none;
+background: url('../img/style1/facebook_hover_136x34.png');
+margin:0 auto;
+}
+
+div.sw_facebook:hover {
+background: url('../img/style1/facebook_color_136x34.png'); 
+}
+
+div.sw_facebook a,
+div.sw_twitter a,
+div.sw_gplus a,
+div.sw_pin a,
+div.sw_in a,
+div.sw_xing a,
+div.sw_mail a {
+display:block;
+height:100%;
+color:#ff0000;
+padding:0px !important;
+}
+
+/* Twitter Button Sidebar */ 
+div.sw_twitter {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/twitter_hover_136x34.png);
+margin:0px auto;
+}
+
+div.sw_twitter:hover {
+background: url(../img/style1/twitter_color_136x34.png);
+}
+
+/* G+ Button Sidebar */ 
+div.sw_gplus {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/gplus_hover_136x34.png);
+margin:0 auto;
+}
+
+div.sw_gplus:hover {
+background: url(../img/style1/gplus_color_136x34.png); 
+}
+
+/* Pinterest Button Sidebar */ 
+div.sw_pin {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/pin_hover_136x34.png);
+margin:0 auto;
+}
+
+div.sw_pin:hover {
+background: url(../img/style1/pin_color_136x34.png); 
+}
+
+/* LinkedIn Button Sidebar */ 
+div.sw_in {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/in_hover_136x34.png);
+margin:0 auto;
+}
+
+div.sw_in:hover {
+background: url(../img/style1/in_color_136x34.png); 
+}
+
+/* Xing Button Sidebar */ 
+div.sw_xing {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/xing_hover_136x34.png);
+margin:0 auto;
+}
+
+div.sw_xing:hover {
+background: url(../img/style1/xing_color_136x34.png); 
+}
+
+/* Mail Button Sidebar */ 
+div.sw_mail {
+width:136px;
+height:34px;
+border:none;
+background: url(../img/style1/mail_hover_136x34.png);
+margin:0 auto;
+}
+
+div.sw_mail:hover {
+background: url(../img/style1/mail_color_136x34.png); 
+}
+
